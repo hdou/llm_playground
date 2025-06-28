@@ -1,0 +1,2621 @@
+Automate Show 2025 Conference Agenda
+EXPLORE TOPICS & SESSIONS
+You can filter the conference agenda by selecting your preferred topic path(s) or day(s) to see
+relevant sessions.
+TOPICS:
+ALL TOPICS KEYNOTES (free to all registered attendees)
+AI & Smart Automation ARM Institute
+Automation Systems, Design & Integration Autonomous Mobile Robotics
+Collaborative Robotics Cybersecurity
+Emerging Applications Getting Started with Automation
+Logistics & Supply Chain Machine Vision, Imaging & Inspection
+Material Handling Advances Material Removal, Grinding & Abrasives
+Motion Control & Conveyance Motors & Drives
+National Fluid Power Association Robotics: Applications, Systems &
+Innovations
+Safety in Automation and Manufacturing Simulation and Digital Twins
+Sustainability The Business Case for Automation
+Workforce & Education
+CERTIFICATIONS: Classes included with purchase of conference pass. Exams require
+additional fee.
+Certified Vision Professional (CVP) Basic
+Certified Vision Professional (CVP) Advanced
+Certified Motion Control Professional (CMCP)
+Show Hours:
+Monday, May 12 – Wednesday, May 14: 10:00 AM – 5:00 PM EDT
+Thursday, May 15: 10:00 AM – 3:00 PM EDTMonday, May 12, 2025
+8:00 AM - 11:30 AM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Advanced Optics for Vision
+Stuart Singer, CEO, Schneider Optics, Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+Designed for the engineering professional, this course concentrates on real-world techniques for putting
+together optic systems that work. You’ll learn how to select proper lens components, optomechanical layout,
+including system bends, and mounting techniques. Prior attendance at a Basic Optics course is encouraged,
+but not required.
+Stuart Singer
+CEO
+Schneider Optics, Inc.
+8:00 AM - 8:45 AM (EDT) Room 321
+Boosting Productivity with Robotic Machine Tending Deployments
+Matt Panosh, Stationary Workholding Group Manager, SCHUNK
+Topic(s): Material Handling Advances Robotics: Applications, Systems & Innovations
+Manufacturers constantly seek to optimize their processes through robotics, but for those new to automation,
+the first deployment can feel daunting. While the initial robot deployment is often the most challenging, true
+success comes from planning for future expansions. Automation, much like the machine tools it serves,
+should be seen as a long-term, flexible investment.
+This presentation will guide participants through essential considerations for automating machine tending, from
+robotic handling to automatic clamping on machine tables. We will explore practical strategies for investment
+in automation, focusing on enhancing productivity and reducing manual labor.
+The session will showcase a spectrum of real-world machine tending scenarios, starting with simple,
+cost-effective solutions, and advancing to more complex applications. These scenarios are divided into five
+key categories:Lean Automation: Leveraging the machine tool’s own table and spindle motion to provide an entry-level
+path into automation.
+Workpiece Automation: Implementing robots or automated handling systems to move raw materials into
+the machine’s clamping device—ideal for larger lot sizes with minor variances in part complexity.
+Pallet Automation: Pre-clamping workpieces outside the machine and automatically loading them via a
+pallet system, perfect for handling high workpiece variability.
+Workpiece and Pallet Automation: Combining clamping tools for both the robot’s end-of-arm tooling and
+machine table to maximize flexibility for a range of production volumes, from single workpieces to large
+batches.
+Flexible Manufacturing Systems (FMS): Multi-machine setups where tools are interconnected by
+automated transport and storage systems for high-volume, variable production.
+Attendees will learn how to leverage existing machine motion for automation, gain insights into manual vs.
+automated clamping solutions, and discover how cobots and robots can enhance workpiece handling
+flexibility. We’ll cover the advantages of automated pallet systems, enabling efficient production of even
+lot-size-one batches. Throughout the presentation, we will address key strategies for early successes,
+planning for workpiece changes, managing multiple operations, and automating infeed and outfeed processes.
+By the end of the session, participants will understand how to use automation to free skilled employees from
+repetitive tasks like manual loading and basic inspections, ultimately boosting productivity and flexibility in
+their operations.
+Matt Panosh
+Stationary Workholding Group Manager
+SCHUNK
+8:00 AM - 8:45 AM (EDT) Room 330B
+Robotics in the Supply Chain
+Tom Bonkenburg, Director of European Operations, St. Onge Company
+Topic(s): Logistics & Supply Chain Robotics: Applications, Systems & Innovations
+Will Robotics and AI be the next disruptive technology in the area of supply chain and distribution?
+Mr. Bonkenburg will discuss the latest available robotic and AI technology for distribution centers, talk about
+the companies that are using this technology, and what the supply chain professional needs to know now
+about the possible future impact of this rapidly developing industry.
+This dynamic presentation will use videos to highlight new technology from startup companies as well as
+traditional material handling vendors from around the world. Are these technologies able to help your company
+and will you be ready for them when they arrive? Note: this is a non-commercial presentation with no “sales
+pitch”. Tom is independent of all technologies discussed, the goal is to present an entertaining and educational
+keynote level discussion.Tom Bonkenburg
+Director of European Operations
+St. Onge Company
+8:00 AM - 12:00 PM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+The Fundamentals of Machine Vision
+David Dechow, Automation Solutions Architect, Motion Automated Intelligence
+Topic(s): Machine Vision, Imaging & Inspection
+You’ll learn all the basics, including how images are captured and transferred to the computer, the principles of
+lighting, and the common processing algorithms used by machine vision systems. Discover how to
+successfully implement machine vision and how to avoid common pitfalls during the implementation, launch
+and production phases. This is an ideal training course for people new to machine vision as well as a great
+refresher course for anyone with machine vision responsibilities.
+David Dechow
+Automation Solutions Architect
+Motion Automated Intelligence
+8:00 AM - 8:45 AM (EDT) Room 310B
+The Future of Automation: Getting Started
+Chris Liu, Product Portfolio Manager, Industrial Edge, Siemens Industry, Inc
+Topic(s): Getting Started with Automation
+This educational experience is designed for OT professionals who are helping to navigate their companies
+through the rapidly-evolving landscape of automation technologies. It does not matter who your main
+automation vendor is. The goal of the session is to enable your acceleration into the automation tools and
+technologies that will shape the next advances in manufacturing. You will walk away with expert-built
+templates and proposals that are tailored to equip your company for action, facilitating your decision-makingand implementation-planning for practical solutions. We will begin with an overview of new technologies and
+their ability to reshape production through leaps in transparency, productivity, and workforce capability. Then
+we will share real examples of how companies have applied these technologies and the outcomes they have
+achieved. We will conclude by providing the assets you need to succeed.
+Chris Liu
+Product Portfolio Manager, Industrial Edge
+Siemens Industry, Inc
+8:00 AM - 8:45 AM (EDT) Room 330A
+Trade-offs in 3D Vision Technologies for Industrial Robotic Applications: A
+Focus on Stereo Vision
+Freya Ma, Product Manager, Teledyne IIS
+Topic(s): Machine Vision, Imaging & Inspection Robotics: Applications, Systems & Innovations
+3D cameras play a pivotal role in industrial automation, enabling advanced robotic systems to perceive depth
+and interact intelligently with their environments. Among the various techniques used to achieve depth
+perception, stereo vision, time-of-flight, lidar, and laser triangulation are the most prevalent. In this talk, we will
+explore the trade-offs between these technologies, focusing on their suitability for different industrial robotic
+applications.
+Special attention will be given to stereo vision, including its key design drivers, the image processing pipeline,
+and the challenges that arise during implementation. We will present case studies demonstrating the
+deployment of stereo cameras in various industrial settings, highlighting how stereo vision stands out in terms
+of cost-effectiveness, flexibility, and scalability. Additionally, we will address common challenges, such as
+calibration, lighting variations, and computational complexity, while offering strategies to overcome these
+hurdles.
+Freya Ma
+Product Manager
+Teledyne IIS8:00 AM - 8:45 AM (EDT) Room 320
+Uncovering Hidden Cobot Opportunities
+Nolan Shelton, Cobot Sales Specialist, ABB Inc.
+Topic(s): Collaborative Robotics Robotics: Applications, Systems & Innovations
+In this session, attendees will delve into the diverse applications of collaborative robots (cobots). The
+presentation will discuss a variety of cobot applications, and what specifically makes these applications
+suitable for collaborative automation.
+Nolan Shelton
+Cobot Sales Specialist
+ABB Inc.
+8:00 AM - 8:45 AM (EDT) Room 310A
+Understanding the Benefits and Challenges of Implementing Automation.
+Joseph Gemma, CEO, Wauseon Machine and Manufacturing
+Topic(s): Automation Systems, Design & Integration Getting Started with Automation
+We will step through what to look for in early stages of investigating where and how to evaluate the best
+opportunities to automate a process or manufacturing challenges. We will explore the challenges in
+determining what makes this successful or a potential failure. We will also discuss the benefits of product
+designs to enhance the success of implementing automation technology as well as the internal infrastructure to
+support the life cycle to the automation. Understanding how utilization of automation can help with throughput,
+quality, scrap rates and personnel development will be discussed as well as different approaches fully
+benefitting from the investment.
+Joseph Gemma
+CEO
+Wauseon Machine and Manufacturing9:00 AM - 9:45 AM (EDT) Grand Riverview Ballroom
+KEYNOTE (free to all registered attendees)
+How to Build a Winning Culture: A View from the NFL
+Brad Holmes, Executive Vice President & General Manager, Detroit Lions
+Dan Miller, FOX 2 Detroit Sports Director and Voice of the Lions
+What does it take to create a winning culture that drives sustained success? In this keynote session, join Dan
+Miller, renowned sports anchor at FOX 2 Detroit and voice of the Detroit Lions, as he sits down with Brad
+Holmes, Executive Vice President and General Manager of the Detroit Lions. Together, they’ll explore the
+strategies and principles behind transforming an organization into a powerhouse, using the Lions’ inspiring
+resurgence as a case study.
+Holmes will share insights on leadership, fostering collaboration, and developing talent—on and off the
+field—that are equally relevant to business leaders striving to build high-performance teams. Learn how to
+embrace challenges, manage transitions, and create a culture where everyone is motivated to win.
+Whether you're leading a corporation, managing a team, or looking to elevate your personal leadership style,
+this session will leave you inspired and equipped with actionable lessons from an NFL team’s front office.
+Brad Holmes
+Executive Vice President & General Manager
+Detroit Lions
+Dan Miller
+FOX 2 Detroit Sports Director and Voice of the Lions
+10:15 AM - 12:00 PM (EDT) Room 310A
+Getting Started with Industrial Robotics
+Bob Rochelle, Automation Systems Consultant, ArtsnRobots LLC
+Topic(s): Getting Started with Automation Robotics: Applications, Systems & Innovations The BusinessCase for Automation
+Industrial Robots are at the heart of Lean Manufacturing and are vital to the current vibrant manufacturing
+economy in North America. The “Getting Started with Robotics” presentation is an introduction to the Industrial
+Robotics or Flexible Automation Industry. We will explore Robot Based Automation Systems to include how
+the industry functions, why to choose robot based automation, principles of system integration, general
+principles of robot technology, the business case for automating and calculating ROI plus the common
+mistakes made in Robot Integration. The attendee will learn through discussion and evaluating system photos
+and videos illustrating various robotic based flexible automation systems.
+Bob Rochelle
+Automation Systems Consultant
+ArtsnRobots LLC
+10:15 AM - 11:00 AM (EDT) Room 321
+Paving the Way for Widespread Robotics Adoption
+Etienne Lacroix, Co-Founder & CEO, Vention
+Topic(s): AI & Smart Automation Robotics: Applications, Systems & Innovations
+The industrial automation landscape has long been characterized by high barriers to entry and complex
+integration services. Today, industrial automation and robotics are undergoing an unprecedented wave of
+innovation that could resemble the early days of the PC industry.
+In this presentation, Etienne Lacroix, CEO of Vention, will explore the critical factors driving the widespread
+adoption of robotics in manufacturing. The talk will focuse on three key areas: cloud robotics, artificial
+intelligence, and platforming, which together hold the potential to revolutionize the automation landscape.
+Etienne will share how cloud robotics serves as a catalyst, enabling advanced computation and data sharing
+across robotic systems. This connectivity not only reduces costs but also enhances the capabilities of
+automation solutions, allowing for more flexible and adaptive manufacturing processes.
+Building on this foundation, Etienne will delve into how productization shifts the paradigm from traditional, risky
+custom projects to scalable and reliable product-based approaches. By integrating hardware and software into
+cohesive applications, manufacturers can streamline deployment, simplify operator training, and ensure
+consistent long-term maintenance—ultimately minimizing financial risks.
+Finally, with the integration of AI and digital twins, Etienne will share how manufacturers can simulate diverse
+process conditions before deployment with the ability to create near-accurate virtual representations of
+physical systems.
+Drawing parallels with industries that have democratized complex technologies, Lacroix will present a vision of
+manufacturing automation's future. He'll showcase real-world examples illustrating the ongoing industry
+transformation.Etienne Lacroix
+Co-Founder & CEO
+Vention
+10:15 AM - 11:00 AM (EDT) Room 330B
+Sustainable Factories Require Platformized, Configurable Solutions
+Jean McAdam, Marketing Director - Industrial Automation, Analog Devices
+Topic(s): Automation Systems, Design & Integration Sustainability
+As operators of connected factories pursue digitalization for sustainability & efficiency, the need for
+configurable, platformized solutions is clear. Ethernet communication is expanding in industries, offering
+higher bandwidth, reduced downtime, faster installation, real-time control, and diagnostics. Increasing
+Ethernet nodes automates control systems, enabling efficiency gains.
+These systems require numerous devices bridging the physical and digital worlds, such as sensors and
+actuators. Networks must be flexible, support multiple topologies, cover long distances, tolerate faults, &
+deliver power. Single-pair Ethernet suits these needs and can reuse existing cabling.
+As edge devices decentralize, remote I/O becomes essential. Configurable I/O is critical to meet varied needs
+with fewer SKUs & reducing design time. The rollout of AI further enhances automation and decision-making.
+Let's discuss these challenges & some potential solutions!
+Jean McAdam
+Marketing Director - Industrial Automation
+Analog Devices
+10:15 AM - 11:00 AM (EDT) Room 310B
+The Importance of Software When Deploying AMRs in Mission-Critical
+Manufacturing Operations
+Adrian Ennis, Senior Product Manager, OTTO by Rockwell AutomationTopic(s): Autonomous Mobile Robotics Logistics & Supply Chain Robotics: Applications, Systems &
+Innovations
+Autonomous mobile robots (AMRs) have been proven to increase productivity and efficiency within facilities
+worldwide, but this is only made possible with great fleet management software. The right software solution
+makes it easy to deploy, manage and scale your AMR fleet, enabling manufacturers to build ROI from day
+one. In this session, attendees will learn what to look for when evaluating fleet management software and how
+it unlocks scale in mission-critical operations worldwide.
+Adrian Ennis
+Senior Product Manager
+OTTO by Rockwell Automation
+10:15 AM - 11:00 AM (EDT) Room 330A
+The Rise of the Connected Worker - Why Augmentation is the Future of
+Manufacturing
+Paul Ryznar, Founder & CEO, LightGuide
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration The Business Case for
+Automation Workforce & Education
+As the manufacturing landscape evolves, the need for a skilled and empowered workforce becomes ever
+more critical. According to research from Kearney, 72% of factory tasks are performed by humans. Yet many
+workers lack access to the real-time information and tools needed to maximize their impact.
+Imagine a manufacturing workforce where every frontline worker is connected to real-time guidance, critical
+data, and intelligent tools that drive real operational results like these:
+90%+ improvements to quality.
+70%+ improvements to training efficiency.
+50%+ improvements to productivity.
+In this talk, LightGuide CEO Paul Ryznar will share real-world success stories that demonstrate how some of
+the world’s leading manufacturers build a connected, augmented workforce that adapts to future challenges.
+Join this session to discover actionable insights about how you can leverage connected worker technologies
+like augmented reality (AR) to future-proof your workforce and drive transformational results in your operations.Paul Ryznar
+Founder & CEO
+LightGuide
+10:15 AM - 11:00 AM (EDT) Room 320
+Wire Harness and Cable Assembly Automation with AI-Based Vision
+Miika Satori, CEO, Cambrian Inc
+Topic(s): Automation Systems, Design & Integration Machine Vision, Imaging & Inspection
+This session examines the application of AI-based vision systems in wire harness and cable assembly
+automation. We'll discuss how these technologies are being implemented in manufacturing environments and
+their potential impact on production processes.
+Key Topics:
+AI Vision Applications: An overview of how AI vision systems can be used to automate wire harness and
+cable assembly tasks, with a focus on improvements in precision and efficiency.
+Real-World Case Studies: Examination of practical examples where AI vision has been integrated into
+wire harness manufacturing, highlighting both successes and challenges.
+Integration Strategies: Discussion of the process involved in implementing AI vision systems, including
+common challenges and effective practices for integrating with existing production lines.
+Challenges and Future Developments: Analysis of current limitations in wire harness and cable assembly
+automation, and exploration of potential future advancements in the field.
+This session aims to provide relevant information for manufacturing engineers, technology professionals, and
+industry decision-makers interested in the potential of AI vision technology for wire harness and cable
+assembly processes.
+Miika Satori
+CEO
+Cambrian Inc11:15 AM - 12:00 PM (EDT) Room 330B
+AI-Cut the Hype, Deliver Results
+Heather Carroll, Chief Revenue Officer, Path Robotics
+Topic(s): AI & Smart Automation
+A brief history of AI and why it is an inflection point in human history. What is AI - high-level visual of what an
+AI system is doing to produce results. Pace of Innovation - more innovation in the next 3 years than in the last
+seven years, you and your company can't wait to get started. But how do we use AI in a practical way now to
+drive real business outcomes?
+Actual Business Cases with Returns in Manufacturing:
+Case 1: Increased First Pass Yield from 60 - 80% to 99.8%, resulting in increasing revenues by $65M
+with no new CapEx spend or new hires
+Case 2: Improved Cycle Time for Production by 2.5X
+Case 3: Increased Production Output within Existing Sq. Ft. from 20 units per day to 38 units per day with
+no new headcount or capital equipment - resulting in $3.8M in revenue per day for a five-year contract
+How to get started with AI in your company.
+Heather Carroll
+Chief Revenue Officer
+Path Robotics
+11:15 AM - 12:00 PM (EDT) Room 321
+Elevating the Standard for Safety in the Humanoid Robot Market
+Melonee Wise, Chief Product Officer, Agility Robotics
+Topic(s): Robotics: Applications, Systems & Innovations Safety in Automation and Manufacturing
+We can’t talk about the excitement and innovation of the robotics industry without mentioning humanoid
+robots. While humanoids for some represent a science fiction future, for others, humanoids represent the next
+generation of automation that will usher in a new era of human-robot collaboration. Yet, collaboration can’t be
+achieved until a critical element is addressed -- that of safety. As an industry, we have a responsibility to create
+and advance safety standards to ensure a safe workplace for humans working with any robots, especially
+humanoids. We can’t let the hype distract us from putting in the hard work on safety -- something that isn’t
+always visible and represented in slick marketing videos. Melonee Wise, Chief Product Officer of AgilityRobotics, has a rich history of pioneering and advancing the robotics industry to the status it is today. In this
+session, she will discuss the similarities between the humanoid market and the AMR market of 10 years ago,
+how to avoid the mistakes that the AMR industry encountered in its infancy, and the work that is being done
+now to establish necessary safety standards and requirements.
+Melonee Wise
+Chief Product Officer
+Agility Robotics
+11:15 AM - 12:00 PM (EDT) Room 320
+Precision Redefined: Elevating Manufacturing Standards with In-Line 3D
+Non-Contact Analysis
+Jeff Frey, Final Test Engineer, Acieta
+Scott Robbins, Software Engineering / Technology Manager, Acieta
+Topic(s): Automation Systems, Design & Integration Machine Vision, Imaging & Inspection
+In the pursuit of manufacturing excellence, quality assurance is non-negotiable. Join us as we explore the
+frontier of precision 3D metrology and its pivotal role in redefining quality standards on the plant floor. Our
+presentation will focus on the transformative capabilities of in-line 3D non-contact analysis systems, offering
+insights into its capacity to revolutionize traditional quality assurance protocols and bring the inspection closer
+to the source. From laser line triangulation to custom structured lighting systems, we'll examine the
+technological foundations underpinning this paradigm shift in metrology. Delve into the dimensions of
+repeatability and accuracy, and discover how our cutting-edge solutions empower manufacturers to achieve
+unparalleled levels of precision. Don't miss this opportunity to elevate your understanding of quality assurance
+in manufacturing.
+Jeff Frey
+Final Test Engineer
+AcietaScott Robbins
+Software Engineering / Technology Manager
+Acieta
+11:15 AM - 12:00 PM (EDT) Room 330A
+The Finish Is What Matters: Get ROI in Record Time with a Fast and
+Precise Material Removal and Finishing Process
+Michael Haas, Vice President America, FerRobotics
+Topic(s): Material Removal, Grinding & Abrasives Robotics: Applications, Systems & Innovations The
+Business Case for Automation
+Traditional sanding and grinding methods, often involve multiple steps and can be time-consuming.
+Advancements in technology have led to the development of innovative approaches that offer significant
+improvements in efficiency and quality. By harnessing the intelligence of an Active Force Control and the
+power of a high-speed operation these tasks can be transformed into a precise finishing process.
+The Role of Force Control and Speed
+Our approach revolves around maintaining a constant contact force. Unlike other solutions, this system
+ensures that the abrasive tool exerts a consistent pressure on the workpiece at any time and any
+circumstance, regardless of variation in robot speed, orientation or any other parameter like material or shape.
+Constant force control allows to play with several parameters such as speed, feed rate and RPM, abrasive
+media, ... without impacting the contact force. Observations show that higher process speeds, coupled with a
+consistent contact force, yield the most superior surface finishes and in the end the interaction and increase of
+these factors allows for:
+Reduced cycle times: By moving the abrasive tool across the surface at higher speeds while maintaining
+optimal pressure, we achieve significantly faster material removal rates.
+Superior surface finishes: The combination of speed and precise force control results in a smoother, more
+uniform finish that eliminates the need for additional polishing or finishing steps.
+Extended abrasive media life: The consistent and optimized working conditions prolong the lifespan of
+abrasive media, reducing operational costs.
+The Economics of Precision Finishing
+The benefits of our approach extend beyond improved product quality. By accelerating the finishing process
+and eliminating the need for secondary operations, this offers a compelling return on investment (ROI). Those
+systems equipped with real contact force outperform other automated solutions due to:
+Higher throughput: The system's ability to achieve optimal results in shorter cycle times means you can
+process more parts in less time.
+Reduced labor costs: Faster throughput through the automated system with less manual finishing needs
+decreases the labor cost per part.
+Improved product quality: The consistent, high-quality finishes produced by the system reduces theamount of defects and rework.
+In essence, this approach of faster processing redefines automated finishing. By combining high speed,
+precise force control, and a focus on achieving a perfect finish in a single process, results in solutions that are
+faster and more cost-effective than traditional methods. The result is a significant improvement in overall
+manufacturing efficiency and a reduction in time-to-market.
+Michael Haas
+Vice President America
+FerRobotics
+11:15 AM - 12:00 PM (EDT) Room 310B
+Unlocking Interoperable Digital Twins for Smart Factory Innovation
+Heiko Wenczel, Head of Omniverse Segment Sales, NVIDIA
+Topic(s): AI & Smart Automation
+Learn how AI-powered digital twins and physically accurate simulations transform facility planning and
+operations and enable the development, simulation, testing, and optimization of physical-AI powered robotic
+systems, including humanoid robots, at scale. Managing millions of factories and hundreds of thousands of
+warehouses face increasingly complex decision optimization challenges to operators. These environments are
+defined by interdependencies spanning human workers, robotic systems, autonomous agents, and advanced
+equipment. Future warehouses and factories will feature hundreds of autonomous mobile robots, robotic arm
+manipulators, and humanoids working alongside people. The implementation of increasingly complex systems
+involving sensor-based robot autonomy, coordinated planning, and simulation-based training will be essential
+to optimize operations, ensure safety, and prevent disruptions.
+Heiko Wenczel
+Head of Omniverse Segment Sales
+NVIDIA
+12:30 PM - 2:30 PM (EDT) Room 420B
+Certified Vision Professional (CVP) AdvancedCertified Vision Professional (CVP) Advanced
+Advanced Vision Lighting
+Steven King, Product Manager, Omron
+Topic(s): Machine Vision, Imaging & Inspection
+The advanced lighting session will dive deeper into the main machine vision lighting principles of illumination,
+reflection, emission, absorption and transmission and how these can be exploited to create high contrast
+images for inspection and code reading. The course will go through the fundamental concepts in greater
+detail, and then through the more advanced concepts of color, multi-light, photometric stereo and multispectral
+imaging, detailing all from both the theoretical and practical viewpoints.
+Steven King
+Product Manager
+Omron
+1:30 PM - 5:00 PM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+Beginning Optics for Machine Vision
+Nicholas Sischka, Director, Imaging, Edmund Optics
+Topic(s): Machine Vision, Imaging & Inspection
+This course teaches the fundamentals for optics for machine vision and robotics. Students will learn the
+fundamental parameters of an imaging system and why they are important, as well as how to choose a lens
+using first order parameters. The course then teaches the concept and real-world applicability of the
+modulation transfer function (MTF) and how to manipulate an MTF with different variables to change things
+such as the depth of field. Lastly, the course will introduce telecentric lenses and how they are different from
+more traditional imaging optics.
+Nicholas Sischka
+Director, Imaging
+Edmund Optics1:30 PM - 2:15 PM (EDT) Room 320
+CobotandGo - Latest Trends and Tech Advancements Making Cobots Even
+More Accessible Than Ever
+Jerry Perez, Manager, FANUC America
+Topic(s): Collaborative Robotics Robotics: Applications, Systems & Innovations
+Today, more than ever, robot end users have a flood a factors to consider when choosing a cobot solution. If
+they don’t do their do diligence and homework, they can make a costly mistake picking the wrong solution, or
+investing in cobot solutions that are already out of date, or are not truly the best fit for their needs.
+This talk covers the hottest trends in cobot solutions and new technology advancements that makes cobots
+even more accessible, easier to deploy, faster to get your ROI, so you can just CobotandGo.
+Jerry Perez
+Manager
+FANUC America
+1:30 PM - 2:15 PM (EDT) Room 330A
+Evolving Automation: Real-Time 3D Vision, AI, and the Future of Smart
+Cameras
+Cenek Albl, VP of Computer Vision, Luxonis
+Topic(s): AI & Smart Automation Machine Vision, Imaging & Inspection Robotics: Applications, Systems &
+Innovations
+Automation technologies are pushing boundaries, but solving real-world problems requires more than basic
+2D detection or depth mapping. This talk, inspired by Luxonis’ VP of Computer Vision, will focus on how
+AI-powered 3D vision and smart cameras are transforming automation by enabling machines to gain a
+comprehensive understanding of their environment. Businesses today require systems that can not only
+identify objects but also understand their precise orientation and spatial relationships in real time.
+Drawing on examples like autonomous robots and manufacturing systems, we’ll explore how the next
+generation of vision technologies supports object manipulation, collision avoidance, and navigation through full
+3D comprehension of the world. We’ll discuss how multiple cameras can work together, sharing data in a
+common coordinate system to create a globally consistent, accurate representation of complex environments.
+Another core element of this presentation will focus on the fusion of different vision modalities (such as stereodepth and segmentation) to create new types of outputs, like segmented point clouds, that unlock additional
+capabilities for automation. The power of combining data over time and from multiple sensors ensures
+machines can make smarter decisions and overcome the edge cases that often prevent full system reliability.
+The talk will also emphasize the importance of AI models capable of retraining themselves. As industries
+evolve, automated systems must learn to adapt to new challenges and environments. By embedding
+self-learning mechanisms, Luxonis’ vision systems ensure that machines stay relevant and capable of
+performing at their best in ever-changing conditions.
+The talk will conclude with real-world case studies from sectors such as agriculture, industrial safety, and
+robotics, showing how companies have successfully integrated 3D vision systems to achieve unprecedented
+levels of efficiency, safety, and accuracy. Through these examples, attendees will gain insights into how
+advanced vision technologies are not only solving today’s problems but laying the groundwork for the future of
+automation.
+Cenek Albl
+VP of Computer Vision
+Luxonis
+1:30 PM - 2:15 PM (EDT) Room 321
+From Concept to Control: Model-based Design, AI and Machine Learning in
+Automated Systems
+Mahaveer Satra, Sr. Application Engineer, The MathWorks Inc.
+Brandon Stiffler, Software Product Manager, Beckhoff Automation USA
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+Explore the automation workflow of the future in this collaborative session from Beckhoff Automation USA and
+MathWorks. We believe – and our industry friends tend to agree – that the most impactful technologies for the
+next generation of automated systems are: Model-based design and simulation, and AI / Machine learning.
+With the right set of tools, model-based design and simulation can be applied to the development and
+implementation of modern automated controls systems. We intend to demonstrate how a full in-the-loop
+testing process can be realized; with models being taken from initial concept, all the way to the control of
+physical devices. This integrated workflow enables early validation and continuous optimization as the system
+evolves.
+Furthermore, this presentation aims to demystify the process of applying AI within engineered systems by
+addressing the common hurdles organizations encounter today. These range from data preparation and
+modeling intricacies to the obstacles of verification and deployment. Beyond identifying these real-world
+challenges, practical strategies and solutions will be proposed to facilitate a smoother AI integration journey.Mahaveer Satra
+Sr. Application Engineer
+The MathWorks Inc.
+Brandon Stiffler
+Software Product Manager
+Beckhoff Automation USA
+1:30 PM - 2:15 PM (EDT) Room 310B
+How to Design Intuitive and Aesthetically Pleasing HMIs for 21st-Century
+Factories?
+Riddhi Padariya, Sr. Controls Engineer, The Boring Company
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration Emerging Applications
+Tired of clunky, outdated interfaces slowing you down during troubleshooting? In this talk, we’ll dive into the art
+and science of building Human-Machine Interfaces (HMIs) that are not only sleek and visually captivating but
+also engineered for lightning-fast troubleshooting. Discover how user-centric design, cognitive hacks, and
+emerging tech—like adaptive interfaces—which is reshaping the way we interact with machines. Learn
+practical tips to create HMIs that are as intuitive as they are beautiful, saving time, reducing errors, and setting
+a new benchmark for usability in smart manufacturing. If you're ready to transform your HMI game, this is the
+session you don’t want to miss!
+Riddhi Padariya
+Sr. Controls Engineer
+The Boring Company1:30 PM - 5:00 PM (EDT) Room 310A
+Introduction to Multi-Agent Systems for Industrial AI
+Kence Anderson, CEO & Founder, Composabl, Inc.
+Topic(s): AI & Smart Automation Getting Started with Automation
+Artificial intelligence (AI) promises better, more human-like decision-making and more autonomous operation,
+yet 87% of industrial AI initiatives never make it to production.
+This course explains how to create deployment-ready autonomous systems that incorporate engineering
+expertise to optimize complex and high-value industrial processes. The key is modular multi-agent systems
+that combine AI’s power to learn with existing automation, which has already been using software agents
+successfully for generations. The result is reliable, explainable systems that can automate processes that
+could never be automated before.
+This introductory course is for all industrial automation stakeholders: plant and line managers, engineers, data
+scientists, and executives. You’ll walk away understanding the industrial and agentic AI landscape and ready
+to select technologies, service providers, and vendors to put high-performing AI into production.
+Kence Anderson
+CEO & Founder
+Composabl, Inc.
+1:30 PM - 2:15 PM (EDT) Room 330B
+Why 5G Indoor Precise Positioning Is the Game-Changer for Smart
+Factories
+Vish Kolur, Business Initiator, Private Cellular Network Strategic Alliances, Ericsson Enterprise Wireless
+Solutions
+Anneli Larsson, VP and Head Sales Engineering Private Networks, North America, Ericsson Enterprise
+Wireless Solutions
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+5G-enabled, precise indoor positioning in a smart factory can revolutionize operations. Imagine real-time
+inventory tracking, ensuring materials and products are always where they should be. Geofencing enhances
+security by restricting access to sensitive areas and preventing expensive tools from leaving designated
+workshops. Autonomous Mobile Robots (AMRs) navigating efficiently, optimizing routes, and reducing delays.
+Worker safety improving as location tracking helps prevent accidents by monitoring proximity to hazardouszones.
+In this session, Ericsson will explore real-world examples of private cellular network factory deployments and
+how they deliver advantages with the positioning feature of 5G.
+Vish Kolur
+Business Initiator, Private Cellular Network Strategic Alliances
+Ericsson Enterprise Wireless Solutions
+Anneli Larsson
+VP and Head Sales Engineering Private Networks, North America
+Ericsson Enterprise Wireless Solutions
+2:30 PM - 3:15 PM (EDT) Room 320
+Advancing Robotic Capabilities with the Sense of Touch
+Ian Stern, Director of Force/Torque Sensing, Novanta
+Topic(s): Collaborative Robotics Robotics: Applications, Systems & Innovations
+In the rapidly evolving field of robotics, including industrial, collaborative and humanoid, the integration of
+advanced sensing technologies is crucial for enhancing the precision, adaptability, and overall functionality of
+robotic systems. Force/Torque sensors provide robots with the ability to perceive and respond to their
+environment with a level of sensitivity akin to the human sense of touch. This capability is transformative for
+applications requiring delicate manipulation, precise force control, and adaptive interaction with varying
+objects and environments. The combination of force and visual feedback allows robots to perform complex
+tasks with greater efficiency and precision, leading to improved performance in dynamic and unstructured
+environments. Advancements in AI and edge computing is further accelerating this adoption.
+Ian Stern
+Director of Force/Torque Sensing
+Novanta2:30 PM - 3:15 PM (EDT) Room 330A
+Automated Visual Inspection at Every Stage of Manufacturing
+Rajesh Iyengar, Co-Founder and CEO, Lincode Labs Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+The presentation will address the current visual inspection practices in the manufacturing sector and highlight
+the need for a more advanced approach. Currently, many manufacturing companies rely on manual inspection
+processes, which are prone to human error and inconsistencies. Visual inspections conducted by human
+inspectors are very time-intensive and have limited data tracking. Factors such as fatigue, distractions, and
+varying levels of expertise can lead to inaccurate assessments. Additionally, some companies have
+implemented machine vision systems that utilize golden template matching, but this approach has limitations
+in detecting defects accurately. They often require expensive equipment to be implemented, which can pose a
+significant financial burden for companies. Moreover, machine vision systems are typically rule-based,
+requiring extensive system integration efforts. This integration can be complex and time-consuming, adding to
+the overall implementation challenges.
+The presentation will introduce AI-based visual inspection as a revolutionary solution to these challenges.
+AI-based visual inspection leverages the power of artificial intelligence algorithms to analyze visual data and
+identify defects with remarkable precision. By incorporating deep learning techniques, the system can
+continuously enhance its performance over time through training and exposure to a wide range of component
+data. Compared to manual inspection or traditional machine vision systems, AI-based visual inspection offers
+higher accuracy, reliability, and efficiency.
+The presentation will also discuss the advantages of implementing AI-based visual inspection in
+manufacturing processes. By automating the inspection process in every manufacturing stage, companies can
+eliminate the need for manual labor, thereby improving productivity and minimizing production downtime.
+During the presentation, specific examples and case studies will be provided to demonstrate the effectiveness
+of AI-based visual inspection.
+Rajesh Iyengar
+Co-Founder and CEO
+Lincode Labs Inc.
+2:30 PM - 3:15 PM (EDT) Room 310B
+Expanding Your Reach
+Matt Berch, Sr. Account Manager, Gudel Inc.
+Topic(s): Automation Systems, Design & Integration Motion Control & Conveyance Robotics: Applications,Topic(s): Automation Systems, Design & Integration Motion Control & Conveyance Robotics: Applications,
+Systems & Innovations
+An introduction to the design considerations for use of RTU's in various automation applications including
+machine tending, material handling and many others.
+Matt Berch
+Sr. Account Manager
+Gudel Inc.
+2:30 PM - 3:15 PM (EDT) Room 330B
+How RFID Can Increase User Accountability & Reduce Overall Production
+Costs
+Juan Martinez, Vertical Lead - Manufacturing, Logistics, Commercial Integrations, rf IDEAS, Inc.
+Topic(s): Cybersecurity
+rf IDEAS’ Juan Martinez, Vertical Lead of Manufacturing, will dive into the importance of managing access to
+the production process, eliminating shared passwords/open workstations, and holding operators accountable.
+Juan will discuss passwordless authentication, auditable logical access control at shared workstations, and
+present use cases where rf IDEAS’ reader solutions are implemented, helping facilities maintain HMI/PLC
+security, realizing significant production and IT cost savings.
+Juan Martinez
+Vertical Lead - Manufacturing, Logistics, Commercial Integrations
+rf IDEAS, Inc.
+2:30 PM - 3:15 PM (EDT) Room 321
+The Evolution of AI in Collaborative Metal Fabrication & Cobot Welding
+Will Healy III, Global Industry Manager - Fabricated Metals, Teradyne Robotics / UR
+Topic(s): Collaborative Robotics Material Removal, Grinding & AbrasivesMetal fabricators from welders to assemblers are all challenged with workforce woes, the need to boost
+productivity and the endless quest for quality. Knowing automation is the answer is one thing, but actually
+finding real success with technology investments can feel challenging and risky. How do you know what will
+truly bring value to the organization? How do you determine the return? And now with the hype of Artificial
+Intelligence (AI) seemingly on every product, how do manufacturing leaders determine the right places to
+invest limited time and capital?
+In this session, we will delve into the ever-evolving landscape of automation & AI in the factory and take a look
+at technologies that are having a real impact today across the shop floor. Then we will stare into the crystal ball
+to look forward at technologies that are on the near horizon that manufacturing leaders should be keeping an
+eye on.
+Covering important topics like human-robot collaboration, automated equipment tending, data-driven insights,
+cobot welding, predictive maintenance, robot guided vision, bin picking, collaborative automation, quality
+inspections, demand forecasting, finishing and much more, attendees should leave this session ready to make
+value-creating technology investments in their business. Join us as we explore how AI is reshaping the shop
+floor — one algorithm at a time.
+Will Healy III
+Global Industry Manager - Fabricated Metals
+Teradyne Robotics / UR
+3:00 PM - 5:00 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Advanced Camera & Image Sensor Technology
+Steve Kinney, Director of Training, Smart Vision Lights
+Topic(s): Machine Vision, Imaging & Inspection
+Explore the different levels of image quality at the sensor level. Details relating to quantum efficiency, dark
+noise, signal to noise ratio will be discussed in detail. In addition to topics related to area scan cameras, the
+proper usage of line scan and TDI cameras will be reviewed. Sensor size classification and relationship to the
+camera’s lens mount will be covered.
+Steve Kinney
+Director of Training
+Smart Vision Lights3:30 PM - 4:15 PM (EDT) Room 330A
+Breaking Barriers: AI Robotics in Automotive Assembly
+Dave Grant, CEO, PickNik Robotics
+Topic(s): AI & Smart Automation Robotics: Applications, Systems & Innovations
+While robotics have revolutionized automotive body shops and paint lines over the past decades, the complex,
+variable tasks in pre-assembly and final assembly have remained largely manual - until now. This session
+explores how AI-powered robotics are finally breaking through these longstanding barriers, enabling Western
+automotive manufacturers to automate previously "impossible" tasks while enhancing both competitiveness
+and workplace quality.
+Dave Grant
+CEO
+PickNik Robotics
+3:30 PM - 4:15 PM (EDT) Room 330B
+Exploring the New ISO 10218 Standards and Upcoming R15.06
+Developments
+Roberta Nelson Shea, Global Technical Compliance Officer, Universal Robots
+Topic(s): Robotics: Applications, Systems & Innovations Safety in Automation and Manufacturing
+The ISO 10218 standard is the cornerstone of industrial robot safety, guiding manufacturers, integrators, and
+end users in ensuring safe robotic system implementation. In this session, Roberta Nelson Shea, a leading
+expert in robot safety, will provide an in-depth overview of the latest updates to ISO 10218 and the upcoming
+R15.06 revisions. Key changes, new requirements, and their implications for the industry will be discussed,
+with a focus on the evolving safety landscape for robotic automation. Attendees will gain critical insights into
+how these updates impact risk assessment, collaborative robotics, compliance strategies, and the integration
+of robotic systems, ensuring they stay ahead in an ever-changing industry.Roberta Nelson Shea
+Global Technical Compliance Officer
+Universal Robots
+3:30 PM - 4:15 PM (EDT) Room 321
+Maximizing Multi-Axis Motion Accuracy: A DIY Guide
+Graham Kerr, Mechanical Engineering Lead, Zaber Technologies Inc.
+Topic(s): Motion Control & Conveyance
+Maximizing Multi-Axis Motion Accuracy: A DIY Guide
+Multi-axis motion systems are indispensable in various fields, ranging from manufacturing to scientific
+research. However, achieving high accuracy over a large workspace can be challenging due to numerous
+error sources. This presentation offers a comprehensive guide for individuals and teams looking to build their
+own multi-axis motion systems with precision.
+Introduction
+The presentation begins by highlighting the common challenges faced in achieving high accuracy in multi-axis
+motion systems. These include alignment errors, component imperfections, and external disturbances. It
+emphasizes the importance of a systematic approach to address these challenges and maximize system
+performance.
+High Precision Hardware
+The foundation of a high-accuracy multi-axis motion system lies in its hardware components. The presentation
+discusses the key characteristics to consider when selecting drive systems, bearings, and feedback
+mechanisms. Anti-backlash drive systems, low-pitch/roll/yaw bearings, and high-resolution linear encoders are
+presented as essential elements for achieving precision.
+Alignment
+Alignment errors are a common source of inaccuracy in multi-axis motion systems. The presentation provides
+step-by-step instructions for ensuring proper alignment of the support rails, cross-axis, and vertical axis. It
+highlights the use of precision measurement tools and techniques to achieve parallelism, perpendicularity, and
+verticality.
+Measurement
+Accurate measurement is essential for identifying and correcting errors in a multi-axis motion system. The
+presentation discusses various measurement techniques, including the use of granite squares, dial gauges,
+and vision systems. It explores methods for measuring both linear and angular errors, as well as for assessing
+the overall accuracy of the system.
+Correction
+Once errors have been identified, appropriate correction techniques can be applied to improve system
+accuracy. The presentation covers a range of calibration methods, including 2D and 3D interpolation-based
+calibration, 2-point linear calibration, multi-point calibration, and specific point of interest-based calibration. Itexplains the advantages and limitations of each method.
+Comparison with Commercial Systems
+The presentation concludes by comparing DIY multi-axis motion systems to commercially available options. It
+discusses the advantages of building a system in-house, such as cost savings, customization, and a deeper
+understanding of the underlying technology. However, it also acknowledges the potential challenges, such as
+the need for expertise and the time required for development.
+Conclusion
+By following the guidelines presented in this abstract, individuals and teams can build high-accuracy multi-axis
+motion systems that meet their specific requirements. The presentation provides a practical roadmap for
+selecting appropriate hardware, ensuring proper alignment, conducting accurate measurements, and
+implementing effective calibration techniques. By investing time and effort into these steps, it is possible to
+achieve exceptional performance and reliability in multi-axis motion applications.
+Graham Kerr
+Mechanical Engineering Lead
+Zaber Technologies Inc.
+3:30 PM - 4:15 PM (EDT) Room 320
+There is No Silver Bullet: How to Use Multiple End of Arm Tooling for a
+Robotic Finishing Application
+Tim Burns, Sr. Application Engineer, ATI Industrial Automation
+Topic(s): Material Removal, Grinding & Abrasives Robotics: Applications, Systems & Innovations
+To educate attendees with tools available for robotic deburring, finishing, sanding and polishing applications
+and how they can help address workforce issues, improve quality and consistency, improve productivity, and
+protect operators from the ergonomic risks associated with performing these operations manually. Example
+applications will also demonstrate how efficiency and improved quality can be attained through these compliant
+tools.
+Tim Burns
+Sr. Application Engineer
+ATI Industrial Automation3:30 PM - 4:15 PM (EDT) Room 310B
+Where Are All the Robots?
+Saurabh Chandra, CEO, Ati Motors Inc
+Topic(s): Autonomous Mobile Robotics Robotics: Applications, Systems & Innovations
+We have seen a surge in robotics startups in the last few years, but this has not necessarily translated to
+increased automation. Factories remain relatively devoid of robots, with human-operated vehicles dominating
+material movement. In this talk, we will discuss challenges across manufacturing functions in automating
+workflows - fear of increase in production backlogs, cybersecurity concerns, safety compliance. We will also
+present Ati's efforts in tackling these problems while simultaneously overcoming the long-tail of edge cases
+seen in real-life environments.
+Saurabh Chandra
+CEO
+Ati Motors Inc
+Tuesday, May 13, 2025
+8:00 AM - 10:00 AM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+3D Vision System Development
+James Anderson, Digital Business Consultant - Vision and Quality Control, SICK
+Topic(s): Machine Vision, Imaging & Inspection
+Learn how advancements in 3-D camera technology are enabling new solutions for more applications than
+ever before. Review the many vision-based 3-D measurement techniques and which achieve the best results
+for different application scenarios. This session will provide real application techniques you can use in
+electronics, pharmaceutical, food & beverage, aerospace, automotive and many other industries.James Anderson
+Digital Business Consultant - Vision and Quality Control
+SICK
+8:00 AM - 10:30 AM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+Beginning Lighting for Machine Vision
+Neil Farrow, Machine Vision Applications Engineer, Datasensing
+Topic(s): Machine Vision, Imaging & Inspection
+This course focuses on providing the attendee with a background and a basic set of tools to apply a more
+rigorous analytical approach to solving lighting applications. Topics covered include overview of light, lighting
+geometry and structure, color tools, filters - illustrated by examples and graphics. We also briefly address LED
+technology, safety, radiant power measurements, illuminator strobing and preview advanced lighting
+non-visible and geometry techniques.
+Neil Farrow
+Machine Vision Applications Engineer
+Datasensing
+8:00 AM - 8:45 AM (EDT) Room 310B
+Boost Efficiency and Reduce Unplanned Downtime: Moving from Reactive
+To Proactive Maintenance
+Tom Knauer, Global Strategy Manager - Robotics & Automation, Balluff GmbH
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+Condition Monitoring and Predictive Maintenance can help manufacturers improve Overall Equipment
+Efficiency (OEE) by reducing unplanned downtime. But what are they, and how do users get started? The
+number and range of solutions is growing, and knowing where to start and finding the “right” solution can be
+confusing and difficult.I’ll explain typical machine failure modes, the basics of the four different maintenance approaches (reactive,
+preventative, condition based and predictive), common failure indicators (early warning signals) and how these
+are related and can be used to improve machine operation by reducing unplanned down time.
+I’ll also discuss some findings based on customer feedback and research the: 1) top customer concerns -
+unplanned down time, challenging/costly to implement Condition Monitoring solutions, etc.; 2) general phases,
+symptoms and severities as a machine starts to fail; 3) most commonly monitored machine characteristics
+(vibration, temperature, etc.); and 4) top assets/machines which are monitored (motors, pumps, spindles, etc.).
+I will then present different approaches to implementing proactive maintenance approaches ranging from
+using existing machine data/architectures to add-on sensors and processors to condition monitoring as a
+service (CMAAS).
+Tom Knauer
+Global Strategy Manager - Robotics & Automation
+Balluff GmbH
+8:00 AM - 8:45 AM (EDT) Room 310A
+Cutting Through the Competition: How System Integrators Can Win with
+Robotic Material Removal
+Shane Rose, Marketing and Business Development Manager, PushCorp
+Topic(s): Material Removal, Grinding & Abrasives
+Robotic material removal presents a growing opportunity for system integrators looking to expand their
+automation capabilities and win more projects. In this session, we’ll provide a high-level overview of the
+essential technical considerations, such as identifying suitable applications, selecting the right robotic
+solutions, and optimizing process efficiency. Attendees will also gain insights into how to position their
+expertise in this niche to attract clients and differentiate from competitors. While the session will provide
+actionable takeaways, it will also open the door to further engagement for those interested in diving deeper
+into this rapidly evolving field.
+Shane Rose
+Marketing and Business Development Manager
+PushCorp8:00 AM - 8:45 AM (EDT) Room 320
+How Mobile Robots Have Evolved: Lessons Learned from A Decade of Use
+Denise Stafford, Business Development Manager, KUKA Robotics Corp.
+Topic(s): Automation Systems, Design & Integration Autonomous Mobile Robotics
+In the ever-evolving landscape of global manufacturing and logistics, the integration of mobile robots has
+become a cornerstone of modern production & warehouse strategies. As it getting more and more difficult to
+find skilled labor, and logistics companies and manufacturers strive to stay competitive, many are turning to
+these versatile machines to address increasingly complex operational challenges. Mobile robots, powered by
+advanced software and sensors, now navigate busy floors and perform a variety of tasks across industries
+with remarkable efficiency.
+This presentation offers integrators and end-users a comprehensive introduction to mobile robots. Drawing
+from a decade of hands-on experience, we will explore the critical factors for successful adoption, including
+how to select the right mobile robot for specific applications. Through real-world case studies, the talk will
+highlight key integration considerations for both warehouses and manufacturing for a successful integration.
+By the end of this session, attendees will have a solid understanding of how mobile robots have evolved and
+the practical insights needed to successfully implement this transformative technology in their own operations.
+Denise Stafford
+Business Development Manager
+KUKA Robotics Corp.
+8:00 AM - 8:45 AM (EDT) Room 330B
+Is Automation Right for Your Company?
+Adam Crandall, Chief Revenue Officer, Addtronics
+Topic(s): Automation Systems, Design & Integration The Business Case for Automation
+In today’s rapidly evolving industrial landscape, businesses are increasingly turning to automation to enhance
+efficiency, reduce costs, and stay competitive. But is automation the right solution for your company? This
+session will guide decision-makers through a strategic evaluation of automation's potential fit for their
+operations.
+We will explore key factors such as industry-specific needs, operational scale, budget considerations, and
+workforce impacts. Attendees will learn how to assess their readiness for automation, identify areas where
+automation can deliver the highest ROI, and determine whether now is the right time to invest in automationautomation can deliver the highest ROI, and determine whether now is the right time to invest in automation
+technologies. Through case studies and expert insights, this presentation will provide actionable steps to help
+companies make informed decisions and implement automation with confidence.
+By the end of the session, you’ll walk away with a clearer understanding of how automation can align with your
+business goals and whether it’s the right path forward for your organization.
+Adam Crandall
+Chief Revenue Officer
+Addtronics
+8:00 AM - 8:45 AM (EDT) Room 321
+Machine Vision Made Simple
+Eric Hershberger, Principal Application Engineer, Cognex
+Topic(s): Getting Started with Automation Machine Vision, Imaging & Inspection
+This will be an update to the presentation I gave the last two years on how to make machine vision integration
+simple. I will continue to include more real world applications and dive into a few of the items that I use in my
+day job to solve customer applications and make their integration life easier.
+I will showcase the tools and equipment that can be used to make your machine vision application work for a
+long time. I will focus on the questions that you need to ask upfront during the design process to make sure
+you have a successful deployment.
+Eric Hershberger
+Principal Application Engineer
+Cognex
+8:00 AM - 8:45 AM (EDT) Room 330A
+The Age of No-Code Robotics: Accelerating Automation with Intuitive
+ProgrammingBrandon Coats, Director of Solutions Engineering, Mujin
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+As industries continue to advance in automation, the need for extensive programming has often slowed
+adoption. However, the rise of more intuitive, user-friendly robotics platforms is reshaping the landscape,
+allowing both end users and robotics integrators to deploy systems quickly and efficiently, without the need for
+deep technical expertise. This session will explore how these advanced solutions, designed for ease of
+integration, are enabling businesses to scale their automation efforts faster and with fewer obstacles.
+Brandon Coats
+Director of Solutions Engineering
+Mujin
+9:00 AM - 10:00 AM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Basic Machine Design and the Physics of Motion
+Mark Holcomb, Director of Product Management, Allient
+Topic(s): Motion Control & Conveyance Motors & Drives
+Introduction to basic machine design concepts and physics behind electro-mechanical
+motion control.
+Mark Holcomb
+Director of Product Management
+Allient
+9:00 AM - 9:45 AM (EDT) Grand Riverview Ballroom
+KEYNOTE (free to all registered attendees)
+Industrial Autonomy in the Era of Physical AIDeepu Talla, Vice President of Robotics and Edge AI, NVIDIA
+The big bang of generative AI for the physical world has arrived. Physical AI, models that can understand and
+interact with our physical world, will transform today’s rule-based static automation to intelligent and adaptive
+autonomy that can be applied to the holy grail of high-mix and unstructured problems. Physical AI will embody
+every industrial facility up to $50 trillion worth of GDP - from warehouse to factory - the robots that work
+alongside us within them, and the vehicles that transport manufactured goods around the world. Join this talk
+to see how NVIDIA and our vast ecosystem of industrial software, hardware, AI and robotics partners are
+helping accelerate this next wave of AI for industrial transformation.
+Deepu Talla
+Vice President of Robotics and Edge AI
+NVIDIA
+10:00 AM - 11:00 AM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Mechanical Motion Control Components and Subsystems
+Keith Knight, Director of Business Development, Invio Automation
+Topic(s): Motion Control & Conveyance Motors & Drives
+Introduction to what a typical motion control system consists of and the typical mechanical
+components and subsystems it contains.
+Keith Knight
+Director of Business Development
+Invio Automation
+10:15 AM - 12:00 PM (EDT) Room 310B
+Getting Started with Mobile Robotics
+Robert Bollinger, Owner, Dynamic Horizons Automation Solutions LLCRobert Bollinger, Owner, Dynamic Horizons Automation Solutions LLC
+Topic(s): Autonomous Mobile Robotics Getting Started with Automation
+Mobility is becoming an important part of many integrated manufacturing systems and logistics solutions. This
+session explores the opportunities created when adding autonomous mobility to your automation menu. We
+will discuss the key items to consider and pitfalls to avoid when choosing and deploying IMR systems.
+Robert Bollinger
+Owner
+Dynamic Horizons Automation Solutions LLC
+10:15 AM - 11:00 AM (EDT) Room 321
+Make Your Cobot Application Resilient With Off-The-Shelf AI-Driven
+Perception
+Andrew Pether, AI Applications Lead, R&D Manager, Universal Robots
+Topic(s): AI & Smart Automation Collaborative Robotics Machine Vision, Imaging & Inspection Robotics:
+Applications, Systems & Innovations
+An inherent challenge of a truly collaborative robot application is that sharing a workspace with a human
+introduces variability that is very difficult to handle with a robot simply cycling through pre-defined positions
+and instructions to complete a task.
+AI driven perception is equipping robots with a broad range of capabilities to sense and compensate for
+variance in their environment simplifying deployment processes, reducing the need for rigid fixturing, and in
+many cases enabling tasks previously deemed unsuitable for automation.
+We will explore how off-the-shelf models (as opposed to those trained from scratch for very specific scenarios)
+provide capabilities such as deep-learning driven part detection and pose estimation, work cell anomaly
+detection and collision aware path planning. These models combined with simple, intuitive user interfaces can
+add flexibility and reduce deployment times, benefiting manufacturers across a wide range of industry
+segments.
+These capabilities are integrated into existing programming paradigms and software development
+environments, allowing this enhanced flexibility to be delivered with cycle time and reliability that industry
+expects.
+Case studies showing real solutions enabled by these approaches will be presented, along with explanations
+of how the audience can get started working with AI in robotics without being overwhelmed.Andrew Pether
+AI Applications Lead, R&D Manager
+Universal Robots
+10:15 AM - 11:00 AM (EDT) Room 310A
+Shorten Product Development Cycles Utilizing Generative AI
+Aniket Vashisht, Senior Solution Architect, Amazon Web Services
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+Manufacturers throughout the world have been proactively planning for a probable economic slowdown by
+taking a number of strategic steps to boost resilience, ensure continued income, and maintain market
+relevance. Diversifying product offerings and expanding into new markets and locations are among the top
+priorities. A major success aspect will be the capacity to bring these innovative items to market faster, which
+includes shortening product development cycles.
+Integrating GenAI into the nonconformity management process marks a paradigm shift in complicated R&D
+environments. Organizations that use AI can significantly reduce the time and resources spent on
+nonconformity resolution, resulting in faster product development cycles, increased creativity, and higher
+product quality.
+As we approach these new possibilities, GenAI has enormous potential to drive innovation in the R&D sector.
+Companies that responsibly embrace innovative technology can expedite development processes and gain a
+competitive advantage by delivering high-quality, reliable goods to market faster than ever before.
+Aniket Vashisht
+Senior Solution Architect
+Amazon Web Services
+10:15 AM - 11:00 AM (EDT) Room 320
+Synthetic Data for AI Machine and Computer Vision
+Pedro Pachuca, CEO and Co-Founder, Advex AITopic(s): AI & Smart Automation Emerging Applications Simulation and Digital Twins
+This presentation explores how synthetic data is revolutionizing AI-powered inspection and vision-guided
+robotics in manufacturing. You'll learn how Generative AI helps overcome challenges such as data scarcity
+and limited edge case coverage which accelerates AI adoption across manufacturing use cases. We will
+discuss how synthetic data enhances model robustness, reduces bias, and improves overall accuracy. We will
+examine case studies showing significant accuracy improvements and reduction in deployment time in defect
+detection and classification use cases across manufacturing sectors. Finally, we will explore best practices for
+integrating synthetic data into existing workflows, enabling manufacturers to stay competitive in an increasingly
+AI-driven industry landscape.
+Pedro Pachuca
+CEO and Co-Founder
+Advex AI
+10:15 AM - 11:00 AM (EDT) Room 330B
+The Final Frontier of Automation in a High Volume Automotive Paint Shop:
+Robotic Paint Repair on a Moving Line
+Michelle Frumkin, Senior Global Robotics Portfolio Manager, 3M Company
+Gary Gagne, Product Development Manager, Inovision, Inc.
+Ryan Odegaard, Director of Paint, General Motors
+Marcus Pelletier, Global Portfolio Manager Robotics & Automation, Abrasive Systems, 3M
+Tom VanderPlas, Senior Staff Engineer (FANUC America’s Paint Shop Division), Fanuc
+Topic(s): Material Removal, Grinding & Abrasives Robotics: Applications, Systems & Innovations
+The once thought impossible is now possible – Robotic Paint Repair can be achieved on a moving automotive
+paint line.
+Hear from General Motors and 3M:
+How they created the first in the world moving robotic paint repair solution
+Why they went after the hardest solution first
+How it works
+See it run on a moving line in a GM facilityMichelle Frumkin
+Senior Global Robotics Portfolio Manager
+3M Company
+Gary Gagne
+Product Development Manager
+Inovision, Inc.
+Ryan Odegaard
+Director of Paint
+General Motors
+Marcus Pelletier
+Global Portfolio Manager Robotics & Automation, Abrasive Systems
+3M
+Tom VanderPlas
+Senior Staff Engineer (FANUC America’s Paint Shop Division)
+Fanuc
+10:15 AM - 11:00 AM (EDT) Room 330AUltra Wide, No Distortion Lenses Tough Enough for Crash Testing
+Mark Peterson, Co-founder and VP Advanced Technology, Theia Technologies
+Topic(s): Machine Vision, Imaging & Inspection
+Mark Peterson, Co-founder and VP of Advanced Technology at Theia Technologies presents an insightful
+case study on Ultra-Wide, No Distortion Lenses Tough Enough for Crash Testing.
+In the field of automotive crash testing, high-speed cameras are crucial for capturing and analyzing the
+dynamics of impact. Imaging systems require a variety of features to not only withstand violent environments,
+but also capture crisp, clear images in challenging light conditions and often in tight spaces, with the precision
+needed for accurate crash observation. That’s where Theia Technologies’ lenses with patented Linear Optical
+Technology® come in.
+Since 2018 Theia’s lenses with patented distortion correction technology have found a home in vehicle crash
+testing. The lenses were chosen for their unparalleled wide fields of view from short distances, very low barrel
+distortion and high-resolution performance. Theia’s ML183M lens was originally selected for its 1.8 – 3mm
+focal range offering up to 120° horizontal field of view with less than 1% barrel distortion and 200 lp/mm
+resolution. The lens allows the onboard crash test imaging system to cover the entire width of the vehicle and
+its dummy passengers from closer than one half meter. The patented technology uses all optical distortion
+correction; no software is required to correct distortion so there is no related latency – the ultra-wide image
+keeps straight lines in the object straight in the image in real time.
+In 2023 Theia introduced their MY23F 2.3mm 1/1.8” format lens which improves upon these features by
+adding ruggedization that allows it to survive vehicle crash testing impacts at 50 miles per hour during sled
+tests. The lens has been tested and is certified to withstand shock of up to 50G in each axis as well as
+vibration up to 200Hz at 10G.
+The patented technology also provides increased edge resolution compared to other wide-angle optics. With
+patented Linear Optical Technology™ there are more pixels the farther out to the edge of the image, providing
+a better chance of capturing small details all the way out to the edge of the image. Both the ML183 and
+MY23F lenses provide 200 lp/mm resolution, enabling capture of high resolution, clear images in this dynamic
+crash test environment.
+Until recently Theia’s patented Linear Optical Technology® and its advantages had only been available for up
+to 1/2.3” image sensors. With the MY23F lens, this technology can now be employed with the larger 1/1.8”
+sensors that are popular for their larger pixels, for greater light gathering ability, and dynamic range in
+challenging, low light environments.
+With its 200lp/mm resolution performance, rugged design, and versatile combination C/M12 mount, the
+MY23F lens is without peer in machine vision today. The MY23F’s 116° horizontal field of view and 0.5%
+barrel distortion make it the widest, no distortion lens for 1/1.8” imagers on the market today, an excellent
+choice to meet the stringent requirements of onboard crash test imaging systems.
+Mark Peterson will be exploring these advances, focusing on how Theia’s patented Linear Optical
+Technology® is revolutionizing crash testing and beyond.
+Mark Peterson
+Co-founder and VP Advanced Technology
+Theia Technologies10:30 AM - 12:30 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Introduction to Machine Learning
+Andrew Long, CEO, Cyth Systems
+Topic(s): Machine Vision, Imaging & Inspection
+Intro to Machine Learning
+Andrew Long
+CEO
+Cyth Systems
+11:00 AM - 12:00 PM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Understanding Inertia and Reflected Inertia
+Keith Knight, Director of Business Development, Invio Automation
+Topic(s): Motion Control & Conveyance Motors & Drives
+The importance of inertia in electro-mechanical motion control systems and how the inertia of the components
+in a motion control system affects its performance.
+Keith Knight
+Director of Business Development
+Invio Automation11:15 AM - 12:00 PM (EDT) Room 310A
+Adaptive Production in Smart Manufacturing
+Davide Picciotto, Industry Director, Siemens
+Andrea Sassetti, Digital Enterprise Innovation Manager, Siemens
+Topic(s): AI & Smart Automation Autonomous Mobile Robotics Getting Started with Automation
+This session is designed for IT and OT leaders and subject matter experts who are seeking greater speed,
+flexibility, responsiveness, and resiliency in their operations. It does not matter who your main automation
+vendor is. In between automated production and autonomous production is a stage that few manufacturers
+have entered but that many are actively pursuing: Adaptive Production. The path to Adaptive Production runs
+through what the Digital Thread for Smart Manufacturing. By exploring use cases that encompass order
+handling and scheduling, AMRs and AGVs, AI-empowered robotics and control loops and the alignment of OT
+and IT data, our panel of experts will help this session’s attendants to gain valuable knowledge on the critical
+components and strategies necessary to achieve an actionable understanding of Adaptive Production and the
+foundational capabilities that make it possible. Don't miss this opportunity to learn and advance your
+production capabilities to be more Adaptive.
+Davide Picciotto
+Industry Director
+Siemens
+Andrea Sassetti
+Digital Enterprise Innovation Manager
+Siemens
+11:15 AM - 12:00 PM (EDT) Room 320
+Factory of the Future: Defining a Vision & Strategy
+Brian Breuhan, Global Optimization Strategist, General Motors
+Topic(s): Automation Systems, Design & Integration
+Factory of the Future planning and ideation. How does the Fiat Chrysler Automobiles World ClassFactory of the Future planning and ideation. How does the Fiat Chrysler Automobiles World Class
+Manufacturing concept of “Ideal Production System” play a role in Factory of the Future? Developing a vision
+for Factory of the Future and promoting an innovative mindset in the workforce. Why competitive
+benchmarking and the understanding of Manufacturing Readiness Levels is critical when developing the
+roadmap for Factory of the Future. How to build a plan of execution of the factory of the future and how to use
+Ideal production system in the continuous improvement as the factory moves into the future.
+Brian Breuhan
+Global Optimization Strategist
+General Motors
+11:15 AM - 12:00 PM (EDT) Room 321
+From Concept to Control: Automating Fine Wire Handling for Reliable
+Results
+Ryan Hall, Principal Mechanical Engineer, Andrews Cooper
+Topic(s): Automation Systems, Design & Integration
+In this session, we’ll explore the intricacies of automating fine wire handling, particularly the challenges
+involved with handling 46-48 gauge wire in advanced manufacturing settings. Ryan Hall will share proven
+techniques and creative solutions used to ensure precise handling of ultra-fine wire, including innovative
+tooling designs and verification methods that guarantee accuracy and reliability in automation processes.
+Attendees will gain insights into both established and novel approaches for fine wire automation, focusing on
+ways to overcome the specific challenges associated with such delicate materials.
+The presentation will cover essential tools, technologies, and best practices for optimizing fine wire handling in
+automation, ultimately providing attendees with actionable strategies to enhance precision and efficiency in
+their manufacturing workflows. An open Q&A forum will follow to allow attendees to delve deeper into specific
+challenges and applications.
+Ryan Hall
+Principal Mechanical Engineer
+Andrews Cooper11:15 AM - 12:00 PM (EDT) Room 330B
+Smarter Automation Choices for Today’s Manufacturers
+Jacob Sanchez, Industry Solutions and Community Development, Igus Inc
+Topic(s): Automation Systems, Design & Integration Getting Started with Automation
+Imagine what this industry looks like from the outside looking in. GIANT automated assembly cells pick
+components for a PCB board assembly that needs to get soldered, inspected, and moved upstream in less
+than 7 seconds. Seeing all these crazy fast and highly complex systems makes the idea of automation
+impossible or, at the very least, an incredibly risky investment.
+This idea of "tech up now, upgrade later" puts fears to rest. In this session, I will talk about how to find YOUR
+right process and why you don't always need to jump into a 200,000-dollar cell right off the bat. With "low-cost
+automation" solutions and TONS of digital tools now available automating has never been easier than it is right
+now. Because anytime, is a good time to automate.
+Jacob Sanchez
+Industry Solutions and Community Development
+Igus Inc
+11:15 AM - 12:00 PM (EDT) Room 330A
+Updates on Machine Vision Standards
+Suprateek Banerjee, Head of Standardization, Robotics and Automation, VDMA e.V.
+Werner Feith, MEV GmbH
+Bob McCurrach, Director of Standards Development, Association For Advancing Automation
+Masahito Watanabe, Chairman, Japan Industrial Imaging Association
+Topic(s): Machine Vision, Imaging & Inspection
+As machine vision technology continues to advance, industry standards play a crucial role
+in ensuring interoperability, performance, and reliability. In this session, Bob McCurrach
+from A3, Werner Feith representing European Machine Vision Association (EMVA),
+Masahito Watanabe from Japan Industrial Imaging Association (JIIA) and Suprateek
+Banerjee will provide an overview of the latest updates to machine vision standards,
+including key changes, new developments, and their impact on automation applications.
+Attendees will gain valuable insights into how these evolving standards influence systemintegration, compliance, and future innovations in industrial vision solutions.
+Suprateek Banerjee
+Head of Standardization, Robotics and Automation
+VDMA e.V.
+Werner Feith
+MEV GmbH
+Bob McCurrach
+Director of Standards Development
+Association For Advancing Automation
+Masahito Watanabe
+Chairman
+Japan Industrial Imaging Association
+1:30 PM - 2:15 PM (EDT) Room 330A
+Basics of Structure Light Illumination
+Daniel Lau, Professor and Director of Graduate Studies, University of Kentucky
+Topic(s): Machine Vision, Imaging & Inspection
+Structured light illumination is a 3D imaging modality that involves projecting a series of striped or structured
+light patterns onto a target surface and reconstructing a model of the scene based on the warping of the stripesacross the target surface observed by an opposing camera. Unlike passive methods, structured light produces
+scans with orders of magnitude higher resolution, making it the de facto standard for metrology applications. In
+this session, we will present the basic principles of structured light scanners including the needed hardware,
+the various pattern designs, and these patterns are used to reconstruct scans.
+Daniel Lau
+Professor and Director of Graduate Studies
+University of Kentucky
+1:30 PM - 3:00 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Designing Linescan Vision Systems
+Dale Deering, Senior Director Business Development, Teledyne
+Topic(s): Machine Vision, Imaging & Inspection
+In this course, you learn about Line-scan imaging, and how using a scanning technique
+can be beneficial for efficient image capture of moving objects. Topics cover components
+for line-scan image acquisition, when to use line-scan, how to achieve optimum results,
+and trends in the industry. When you complete this course, you will be able to recognize
+candidate applications for line-scan imaging and understand how to develop and
+implement line-scan solutions.
+Dale Deering
+Senior Director Business Development
+Teledyne
+1:30 PM - 2:15 PM (EDT) Room 310A
+Digital Transformation - It's a Marathon Not a Sprint
+Gregory Tink, Digital Transformation Consulting Leader, Schneider ElectricTopic(s): AI & Smart Automation Automation Systems, Design & Integration
+The landscape of American manufacturing is undergoing a seismic shift, marked by a need for increased
+productivity and competitiveness. In the wake of global supply chain disruptions, rising labor costs, and
+growing digital demand, manufacturers across the United States are integrating automation and advanced
+software and equipment into their operational strategy. Embracing automation and digital transformation
+makes processes more agile while empowering workers, enhancing safety, and keeping companies
+competitive.
+Embracing this change is just the beginning. Digital transformation is intricate and demands organizational
+focus, investment, and cultural commitment, from top executives to frontline workers. It’s not something that
+can happen overnight – it’s a marathon, but the key is breaking it up into achievable sprints. Any successful
+digital transformation must focus on people, process, and technology, prioritizing people and process. A
+scalable digital foundation is also essential. Before your facility can deploy next-generation automation
+technologies like artificial intelligence (AI), digital twins, and advanced automation, you need a vision and a
+commitment to continuously improve and drive innovation.
+Join us in this session and gain these key takeaways:
+Where and when this vision should commence, potential structured approaches, and crucial insights
+uncovered during digital transformation journeys.
+Gain an understanding of the data utilized in assessments to the gaps often encountered, the expected
+timetable, deliverables, and the process of defining business cases and KPIs for digital transformation.
+Discover the vital role of staff involvement and how assessments lay the groundwork for future scalability.
+Gregory Tink
+Digital Transformation Consulting Leader
+Schneider Electric
+1:30 PM - 3:15 PM (EDT) Room 310B
+Introduction to Robot Risk Assessment
+Jeff Fryman, Principal Consultant, Association for Advancing Automation (A3)
+Topic(s): Getting Started with Automation Robotics: Applications, Systems & Innovations Safety in
+Automation and Manufacturing
+There are more than 2.7 million industrial robots safely operating in factories worldwide, and the robotics
+industry can take pride in its impressive safety record. For nearly forty years, A3 Robotics – formerly the
+Robotic Industries Association – has taken a lead role in assuring that the robotics industry continues to
+proactively assess the safety environment and provide safety resources as robotic applications continue to
+expand. At the forefront of A3 Robotics’ leadership role in industrial robot safety is the development of the
+ANSI/RIA R15.06-2012 safety standard.Join A3's lead robot safety trainer to learn to help you keep your team safe and learn the basics of conducting
+a risk assessment for your facilities.
+Jeff Fryman
+Principal Consultant
+Association for Advancing Automation (A3)
+1:30 PM - 2:15 PM (EDT) Room 320
+Leveraging Learning Algorithms to Predict Weld Distortion and Residual
+Stress in Real-Time
+Matthew Robinson, ROS-Industrial Consortium Americas - Program Manager, Southwest Research
+Institute
+Topic(s): AI & Smart Automation Robotics: Applications, Systems & Innovations
+In the fabricated structures community, there is a relationship between how the structure is made and how it
+will perform in service. One of the inherent benefits of automation is the consistency of the fabrication process
+that robotics afford, such as consistent heat input and process control. Combined with physics-based
+simulation and thermomechanical analysis structures maybe effectively optimized. However, the consistency
+that is possible with the application of robotic welding is compromised as the components to be fabricated vary
+in their shape and how they fit together. This input variation often results in distortion and residual stress
+profiles that are not intended. Recent developments in machine learning and artificial intelligence enable the
+understanding of a presented assembly variation and update of the welding plan in near real-time relative to
+that part condition. These developments would enable the target processes to be optimized and executed as if
+the physics-based simulation and optimization were computationally feasible. This takes advantage of both
+new approaches for machine learning based frameworks, as well as the ability to execute at the rate of
+production, leading to improved operational efficiencies and optimized fabricated products. This talk seeks to
+share progress in current work that seeks to apply this hybrid physics-based simulation with a novel learning
+framework that seeks to understand presented articles, how they deviate from plan and update welding plans
+on the fly to optimize measured distortion and residual stress. The goal is to create a system that may be
+added to welding systems that enable dynamic planning as presentations and conditions change in the real
+world, thereby making the upfront simulation work more valuable in the production phase, benefitting
+structures and shipbuilding fabricators as well as others concerned with as-fabricated quality.
+Matthew Robinson
+ROS-Industrial Consortium Americas - Program Manager
+Southwest Research Institute1:30 PM - 2:15 PM (EDT) Room 330B
+The Future-Proof Supply Chain: AI-Powered, Data-Driven and
+Software-Defined
+Florian Pestoni, CEO & Co-founder, InOrbit
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration Robotics: Applications,
+Systems & Innovations
+In light of labor, geopolitical and demographic trends, supply chains need to drive productivity improvements
+in order to achieve more with fewer people. In addition, they must achieve greater degrees of flexibility than
+ever before, in order to respond to changing conditions. This presentation will cover how to future-proof any
+supply chain by leveraging the latest technologies, including robotics and artificial intelligence. Attendees will
+learn about best practices for using data and modern software practices to drive efficient robot operation and
+improve material workflows. The presentation will cover specific areas such as mission execution, data
+analytics and AI-driven insights that enhance decision-making, operational efficiency, and scalability.
+Florian Pestoni
+CEO & Co-founder
+InOrbit
+1:30 PM - 2:15 PM (EDT) Room 321
+The New Drop Shipping/Influencer Surges presented by The Robotics
+Group (TRG)
+Greg Meyne, Vice President of Automation, enVista
+Matthew Wicks, VP/GM Zebra Robotics Automation, Zebra Technologies
+Topic(s): Autonomous Mobile Robotics Logistics & Supply Chain Robotics: Applications, Systems &
+Innovations
+In the digital age, businesses are increasingly confronted with demand spikes caused by rapid shifts in
+consumer behavior, seasonal trends, and unforeseen global events. Effective management of these
+fluctuations is crucial for maintaining operational efficiency and customer satisfaction. This seminar explores
+the integration of flexible Autonomous Mobile Robots (AMR) as a strategic solution to address these demand
+spikes. By leveraging advanced robotics technology paired with solutions expertise, organizations can
+enhance their logistics and supply chain processes, ensuring real-time scalability and adaptability. The
+discussion will present real-life customer examples demonstrating how flexible AMR automation can optimize
+resource allocation, reduce lead times, and improve productivity.Greg Meyne
+Vice President of Automation
+enVista
+Matthew Wicks
+VP/GM Zebra Robotics Automation
+Zebra Technologies
+2:00 PM - 3:00 PM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Introduction to Magnetism and Motor Basics
+Mark Holcomb, Director of Product Management, Allient
+Topic(s): Motion Control & Conveyance Motors & Drives
+Basics of magnetics and the types of magnets found in motors. Overview of the basic functions and styles of
+electric motors commonly used in industrial automation, including the operating difference between brushed,
+brushless, step, AC induction, and direct drive motors.
+Mark Holcomb
+Director of Product Management
+Allient
+2:00 PM - 5:00 PM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+The Fundamentals of Camera & Image Sensor TechnologyKevin M. McCabe, Application Engineering Manager, IDS Imaging Development Systems Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+Gain an understanding of digital camera principles. Find out about different camera types and their
+capabilities. Learn about what digital interfaces these cameras use, from Gigabit Ethernet to Camera Link HS.
+Other topics include how image sensors capture light, basic understanding of image quality terms, digital
+camera parameterization, and the capabilities of monochrome versus color sensors.
+Kevin M. McCabe
+Application Engineering Manager
+IDS Imaging Development Systems Inc.
+2:30 PM - 3:15 PM (EDT) Room 321
+Intelligent Power and Energy Management for Industrial Automation
+Jeremy McCullough, Senior Product / Application Engineer, SEW-EURODRIVE
+Topic(s): Motion Control & Conveyance
+Variable frequency drive systems are frequently sized based on peak utilization. This presentation will explain
+the historical reasoning behind that approach and will offer an alternative strategy of designing the energy
+supply of drive systems around each specific application. The benefits include reduced peak power
+requirements, reduced dependency on power supply quality, reduced infrastructure costs, and protection of
+equipment investments.
+Jeremy McCullough
+Senior Product / Application Engineer
+SEW-EURODRIVE
+2:30 PM - 3:15 PM (EDT) Room 320
+Machine Vision for Precision In-line Metrology
+David Dechow, Automation Solutions Architect, Motion Automated Intelligence
+Topic(s): Machine Vision, Imaging & InspectionMachine vision tasks like quality inspection, identification, and robotic guidance might be the first to come to
+mind when considering this valuable technology in industrial automation. Just as important though is machine
+vision’s capability to perform precision, in-line metrology or “measurement”. Automated, non-contact
+measurement however, can present some unique implementation challenges in the execution of a robust and
+reliable application. This discussion will cover a few of these sometimes-overlooked key issues and some best
+practices that can help ensure application success.
+David Dechow
+Automation Solutions Architect
+Motion Automated Intelligence
+2:30 PM - 3:15 PM (EDT) Room 310A
+Optimizing Logistics and Operations: Leveraging Discrete Event
+Simulation for Process Efficiency and Innovation
+Tarciana Almeida, Simulation Research Scientist, Amazon
+Topic(s): AI & Smart Automation Logistics & Supply Chain Simulation and Digital Twins
+In this session, Tarciana Almeida, a Simulation Research Scientist at Amazon, will explore how Discrete Event
+Simulation (DES) is transforming logistics and operational efficiency. She will discuss the use of DES in
+process validation, bottleneck identification, and system optimization in complex environments. Attendees will
+gain insights into how simulation models can predict performance, validate assumptions, and drive innovation,
+ultimately improving throughput and ensuring timely delivery. This session is ideal for professionals looking to
+leverage simulation technology to enhance operational processes and decision-making.
+Tarciana Almeida
+Simulation Research Scientist
+Amazon
+2:30 PM - 3:15 PM (EDT) Room 330A
+Security, Scalability, Reliability and AI at the EdgeKevin Jones, Global VP of Sales & Marketing, Teguar Industrial Computers
+Topic(s): AI & Smart Automation
+The promise of intelligent automation hinges on our ability to effectively harness the vast amounts of data
+generated at the industrial edge. Yet, realizing this potential is not without its hurdles. Join Kevin Jones, a
+technology sales leader and executive at Teguar Industrial Computers, as he delves into the critical landscape
+of industrial edge computing and provides actionable insights for navigating its complexities within the realm of
+automation.
+Kevin will illuminate the top challenges currently facing the implementation and scaling of industrial edge
+computing. These critical issues, which Teguar and its ecosystem partners are actively addressing, include:
+Fortifying the Perimeter: Security in Distributed Environments: Understanding and mitigating the expanded
+attack surface and ensuring robust protection for data and devices at the edge.
+Orchestrating the Distributed Landscape: Management and Scalability: Tackling the complexities of
+deploying, managing, and updating a multitude of edge devices across diverse locations and
+architectures.
+Ensuring Uninterrupted Operations: Connectivity and Reliability: Addressing the challenges of intermittent
+networks and the need for continuous, reliable operation even in disconnected environments.
+Harnessing the Data Deluge: Edge Data Management and Integration: Effectively processing, filtering,
+analyzing, and integrating the massive volumes of edge data with existing IT/OT systems and cloud
+platforms.
+Withstanding the Elements: Operating in Harsh Industrial Environments: Understanding the critical
+importance of ruggedized hardware designed to endure extreme or unpredictable conditions for
+mission-critical applications.
+Connecting the Past with the Future: Integrating Legacy Systems: Navigating the complexities of
+incorporating existing, often disparate, legacy systems into modern edge architectures.
+Scaling Edge Workloads: Future-Proofing Your Automation: Addressing the challenges of efficiently
+scaling edge computing resources and applications as automation demands evolve and data volumes
+grow. This includes considerations for resource allocation, performance optimization, and the ability to
+seamlessly add new edge capabilities without disrupting existing operations.
+In this session, Kevin will not only outline these key challenges but will also highlight the strategies and
+solutions that companies are actively focused on to overcome them. He will share practical insights and
+real-world examples, drawing upon Teguar's experience in providing rugged industrial computing solutions
+that empower edge deployments.
+Kevin Jones
+Global VP of Sales & Marketing
+Teguar Industrial Computers
+2:30 PM - 3:15 PM (EDT) Room 330B
+The Untapped AI Opportunity in Automation Sales and ServiceThe Untapped AI Opportunity in Automation Sales and Service
+Juan Aparicio, CEO, Reshape Automation
+Topic(s): AI & Smart Automation Emerging Applications
+In today's rapidly evolving industrial landscape, the pressure to make informed, data-driven investment
+decisions has never been higher. With so much at stake, how can you ensure that your automation initiatives
+not only gain approval but also deliver tangible, measurable results? This session is designed to help you
+answer that question by exploring how operational data can be harnessed to build a robust, compelling case
+for industrial automation investments.
+Imagine the typical cycle you go through after attending a major industry event like Automate. You return
+brimming with ideas, eager to implement new technologies that promise to transform your operations. But then
+reality sets in—months of manual data gathering, lengthy sales cycles, and complex approval processes that
+seem to drag on indefinitely. Why does it take so long to get a piece of automation approved? Why are these
+cycles so drawn out, and how can you accelerate them?
+This session is about rethinking that entire process. We’ll delve into real-world examples and proven
+methodologies that show how operational data can reveal hidden inefficiencies, predict future challenges, and
+highlight opportunities for automation that might otherwise take months—or even years—to justify. We’ll
+demonstrate how what used to be a painstaking, manual process can now be automated, allowing you to build
+a compelling ROI business case in a fraction of the time.
+Consider the difference that data-driven decision-making can make: a 20% increase in productivity through
+higher machine uptime that's proactively managed, a 15% quicker turnover, and a 10% improvement in
+cost-efficiency. Imagine achieving a 30% improvement in safety and compliance, a 10x reduction in time
+wasted finding tools and materials, and even a 4x faster approval rate for automation projects. These aren't
+just numbers; they represent the transformative potential of leveraging your operational data effectively.
+We’ll also discuss practical strategies and tools for transforming raw data into compelling narratives that speak
+directly to the needs of your stakeholders, whether they’re in operations, finance, or technology. By the end of
+this session, you'll be equipped with the knowledge and tools to confidently advocate for automation solutions
+that are not only technologically sound but also financially justified.
+Join us as we explore how to let your data speak—because in today’s industrial world, data is more than just
+numbers; it’s your most powerful ally in driving smart, effective, and fast-tracked automation investments.
+Through this session, you'll discover how to cut through the noise, accelerate your approval cycles, and
+ultimately, ensure that your automation investments deliver the significant returns your business needs to stay
+competitive.
+So, whether you're still working on getting an automation project approved from last year or you're just
+beginning to consider the possibilities, this session will provide you with the insights, strategies, and tools to
+turn your operational data into a strategic asset—one that can unlock new levels of efficiency, safety, and
+profitability for your organization.
+Juan Aparicio
+CEO
+Reshape Automation3:00 PM - 4:30 PM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Positioner Selection and Motor Sizing
+Jim Wiley, Product Manager, Parker Hannifin
+Topic(s): Motion Control & Conveyance Motors & Drives
+How to select an appropriate single-axis positioner for specific application requirements
+based on loading, environment, motion profile, and positioning performance. Overview on
+determining the required torque, speed, and inertia of the motor/drive system that is
+needed for your application.
+Jim Wiley
+Product Manager
+Parker Hannifin
+3:30 PM - 4:15 PM (EDT) Room 330A
+Automated Manufacturing Ramp-Up: Planning for Successful New Product
+Introductions
+Chris Knorr, Vice President of Business Development, Invio Automation
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+Many manufacturers launching new products are challenged with how to scale their manufacturing operations,
+with capital equipment investment being a major consideration. With new products and new processes, come
+several challenges that are not as prominent in steady-state, mature product manufacturing. There are many
+more risks and unknowns, but with some planning and thought around some of those risks, they can be
+mitigated to enable a successful manufacturing ramp-up. In this session, I will share some of the
+considerations for manufacturing scale-up. We’ll talk about some best practices and pitfalls I have seen from
+the perspective of an automated equipment builder.
+Topics Include:
+Considerations for Implementing a Phased Ramp-Up Plan
+Automation Concept Development
+Mitigation of New Automated Process RisksConsiderations for Autonomous Operation
+Use of Digital Twin Technologies
+Early Planning of Data Architectures
+Planning Transition to Operations
+Chris Knorr
+Vice President of Business Development
+Invio Automation
+3:30 PM - 4:15 PM (EDT) Room 310B
+Autonomous Forklift Safety and Operational Insights: Leveraging New
+Technologies with Real-World Case Studies
+Ahmad Stokes, Director of Sales, VisionNav Robotics USA Inc.
+Topic(s): Autonomous Mobile Robotics Logistics & Supply Chain Safety in Automation and
+Manufacturing
+1. Enhanced Safety Features of Autonomous Forklifts
+Explore the latest safety features in autonomous forklifts, including state-of-the-art collision avoidance
+systems, obstacle detection sensors, and emergency stop functions. These technologies are designed to
+enhance operational safety and minimize risks on the factory floor.
+2. Safe Human-Robot Collaboration in Manufacturing
+Review the best practices implemented by automotive manufacturers to ensure safe and efficient interaction
+between autonomous forklifts, human workers, and machinery. This section highlights real-world strategies for
+mitigating risks and ensuring smooth workflow integration.
+3. Training and Safety Protocols for Autonomous Forklift Operations
+Examine the critical training programs and safety protocols necessary for personnel working alongside
+autonomous forklifts. This includes continuous updates to safety measures and maintaining compliance with
+industry standards to ensure a safe and productive environment.
+Ahmad Stokes
+Director of Sales
+VisionNav Robotics USA Inc.3:30 PM - 4:15 PM (EDT) Room 310A
+Giving Operators a Boost with AI-Powered Worker Training and Assistance
+Alvin Clark, Global Developer Relations Manager - Industrial and Manufacturing, NVIDIA Inc
+Sivakumar Lakshmanan, CEO, DeepHow
+Topic(s): AI & Smart Automation
+Manufacturers face mounting pressure to bridge a widening skills gap and manage increasing operational
+complexity, particularly as advanced robotics and automation reshape the shop floor. This session will explore
+how NVIDIA and partners like DeepHow are transforming operator onboarding and training
+through next-generation AI.
+Discover how AI agents, powered by vision language models (VLMs), large language models (LLMs), and
+NVIDIA Inference Microservices (NIMs) can rapidly understand and interpret multimedia content—from
+training videos and richly illustrated manuals to structured work instructions. These intelligent agents enable
+the rapid creation and deployment of interactive, scalable, and context-aware Standard Operating Procedures
+(SOPs).
+We’ll highlight DeepHow’s use of NVIDIA AI Blueprints to turn expert demonstrations into rich, multilingual,
+video SOPs—complete with step-by-step instructions, knowledge checks, and assessments. DeepHow also
+integrates these AI-generated SOPs with industrial systems like MES, ERP, and LMS to streamline training
+and reduce costly errors.
+Join us to see how AI-powered knowledge transfer is closing the industrial skills gap, empowering frontline
+workers, and enabling scalable, human-AI collaboration across the factory floor.
+Alvin Clark
+Global Developer Relations Manager - Industrial and Manufacturing
+NVIDIA Inc
+Sivakumar Lakshmanan
+CEO
+DeepHow3:30 PM - 5:30 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+High-Speed, Real-Time Machine Vision
+Perry West, President, Automated Vision Systems, Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+This course gives you the insights to achieve the speed and performance you need in your vision systems
+including system architecture, programming tips, and common challenges. You will understand the ways
+high-speed is determined and the different real-time performance requirements. The course follows two vision
+system designs to see how high-speed and real-time techniques are put into practice.
+Perry West
+President
+Automated Vision Systems, Inc.
+3:30 PM - 4:15 PM (EDT) Room 330B
+Optimizing Device Performance and Communication in Automated
+Industrial Settings
+Ed Garstkiewicz, Sr. Industry Segment Manager – Automation and Robotics, HARTING Americas
+Topic(s): Automation Systems, Design & Integration
+In an automated industrial setting, connectors play a critical role in optimizing and modernizing operations,
+performance, and communication between devices. With each device providing a different function and
+containing varying attributes like power needs, size, flexibility, and more, choosing the right connector will
+generate better results. Garstkiewicz will explore the role of connectors and how they impact operations, cost,
+performance, data transfer, efficiency, and sustainability. He’ll also explore the role that miniaturization and
+modularity can play in connectors and automation, including the growing need for faster, more secure
+connectors as AI continues to expand.Ed Garstkiewicz
+Sr. Industry Segment Manager – Automation and Robotics
+HARTING Americas
+3:30 PM - 4:15 PM (EDT) Room 321
+Perception and Cognition in Industrial Welding Robots: Navigating
+Opportunities and Challenges
+Soroush Karimzadeh, CEO & Co-founder, Novarc Technologies
+Topic(s): Robotics: Applications, Systems & Innovations
+This presentation will explore the critical role of perception technologies in enhancing the capabilities of
+industrial welding robots. We will delve into current advancements, the potential benefits for manufacturing
+efficiency, and the challenges that come with integrating sophisticated perception systems.
+Soroush Karimzadeh
+CEO & Co-founder
+Novarc Technologies
+Wednesday, May 14, 2025
+8:00 AM - 8:45 AM (EDT) Room 330A
+Accelerating Factory Integration with a Low-Code IoT Platform
+Mike Bowers, Chief Architect, FairCom
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+Integrating machines, sensors, and other equipment can be a lengthy process, especially when each piece of
+machinery has its own separate protocol. Moreover, developing case-by-case integration solutions is costly
+and inefficient. An IoT platform that automatically transforms data from a variety of protocols solves these
+issues.See a live demo of how the IoT platform FairCom Edge improves factory processes, accelerates integration,
+reduces development costs, and gets you more value from collected data. Edge’s simple point-and-click
+configuration lets it automatically gather data using a variety of protocols, such as MQTT, OPC UA, Modbus,
+S7, Ethernet/IP, etc. It also transforms data to and from standardized JSON and pushes it to REST endpoints
+on enterprise systems. In addition, all data processed by FairCom Edge can be queried with SQL and JSON
+APIs.
+Mike Bowers
+Chief Architect
+FairCom
+8:00 AM - 10:00 AM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Advanced Vision Guided Robotics
+David Bruce, Engineering Manager, FANUC America
+Topic(s): Machine Vision, Imaging & Inspection
+This course covers 2D & 3D machine vision camera calibration for machine guidance including for industrial
+robots together with basic information on the types of industrial robots in use today. Along with the methods
+for representing 3D positional data for both machine vision and industrial robotics and how to ensure a
+machine vision system provides useful positional data to an industrial robot for a Vision Guided Robot (VGR)
+application. The course also presents how to implement a fixed-mounted and robot-mounted 2D/3D VGR
+application as well as examples of each.
+David Bruce
+Engineering Manager
+FANUC America
+8:00 AM - 8:45 AM (EDT) Room 330B
+Advancing Industrial AutomationBlake Kendrick, Global Sales & Marketing Manager - Industrial Automation, Renishaw plc
+Topic(s): Automation Systems, Design & Integration
+Industrial Automation is facing multiple challenges growing at the rate that which industry demands.
+Automation set-up, diagnostics, and service are not automatic, and the speed to implement and performance
+once installed can be impaired. Furthermore, the calibration of robots can be limited in scope; with challenges
+to achieve comprehensive data and provide portability in operation. Despite this, a series of easy-to-realize
+tools and approaches can be utilized to streamline processes, record outcomes, and feedback processes
+control. These steps are baselining newly created automation cells so they are more reliable and can yield
+better performance – opening the potential for new applications. This presentation will outline some of these
+major challenges and the steps that can be taken in the near- and mid-term to address them.
+Blake Kendrick
+Global Sales & Marketing Manager - Industrial Automation
+Renishaw plc
+8:00 AM - 8:45 AM (EDT) Room 320
+Beyond the Labor: Understanding Robot ROI from Production to Profits
+Scott Marsic, Group Product Manager, Epson Robots
+Topic(s): Robotics: Applications, Systems & Innovations The Business Case for Automation
+The decision to move from a manual to an automated process has historically been a laborious, lengthy, and
+capital-intensive endeavor. Calculating the return on investment (ROI) of such a project is critical to the
+decision-making process. Companies beginning their automation journey tend to look at robots as a 1 to 1
+replacement for their workforce leading to expensive over-tooled and over-automated processes. Focusing
+solely on labor replacement can lead companies to vastly undervalue some of the less obvious cost savings
+created by the switch to robotics.
+In this presentation, we will be discussing some of the best practices and common pitfalls to avoid when
+calculating the ROI of a robotic implementation, including:
+Efficient system design for a high-mix manufacturing environment
+Cost benefits from increased production and decreased waste
+Indirect cost benefits generated from increased worker satisfaction and safety
+Long-term cost savings from greater traceability, product consistency and re-deployability
+By considering these concepts, we can move toward considering robots as part of an overall process
+improvement opportunity versus simply as a direct replacement to workers. Doing so brings into consideration
+improvements to the production environment, increased product quality, and enhanced company profitability.
+Ultimately a refocused ROI calculation will help companies pivot from mid-line labor expenses to top-line
+revenue and bottom-line profitability.Scott Marsic
+Group Product Manager
+Epson Robots
+8:00 AM - 12:00 PM (EDT) Room 310A
+Designing Multi-Agent Systems for Industrial AI
+Kence Anderson, CEO & Founder, Composabl, Inc.
+Topic(s): AI & Smart Automation
+Multi-agent AI systems optimize complex processes and automate tasks that could never be automated
+before. This comprehensive course delves into the design of multi-agent AI systems, focusing on the
+principles, strategies, and methodologies used to create intelligent systems capable of autonomous industrial
+operations.
+By the end of the course, you’ll understand how to orchestrate AI agents and other automation technologies
+together into high-performing systems that can digitize and reproduce the skills of the highest-performing
+human operators. You’ll learn how to train agents to specialize in specific skills and become familiar with
+reusable templates for multi-agent system orchestration to address industrial automation challenges like noise
+and changing conditions. At the end of the course, you’ll know how to create a team of expert, specialized
+agents to work together to solve your hardest automation problems.
+Kence Anderson
+CEO & Founder
+Composabl, Inc.
+8:00 AM - 10:00 AM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+Image Processing Fundamentals
+Agnes Weiershaeuser, Senior Application Engineer, MVTec LLC
+Topic(s): Machine Vision, Imaging & InspectionThis course will cover 2D & 3D machine vision camera calibration for machine guidance including for industrial
+robots and basic information on the types of industrial robots in use today. Along with the various methods for
+representing 3D positional data for both machine vision and industrial robotics and how to ensure a machine
+vision system will provide useful positional data to an industrial robot for a Vision Guided Robot (VGR)
+application. Details of how to implement a fixed mounted and robot mounted 2D/3D VGR application as well
+as examples of each will also be presented.
+Agnes Weiershaeuser
+Senior Application Engineer
+MVTec LLC
+8:00 AM - 8:45 AM (EDT) Room 321
+Leveraging UL Robotics Standards Testing to Meet Your Verification &
+Validation
+Michael Jensen, Product Manager - Industrial Robotics, UL Solutions
+Topic(s): Automation Systems, Design & Integration Robotics: Applications, Systems & Innovations Safety
+in Automation and Manufacturing
+Demonstrating safety to customers and code authorities is key to expanding your business opportunities for
+industrial robots, robot systems and autonomous mobile robots. Verification and validation is an important
+foundation to convey safety to customers, and demonstrating enhanced safety testing can be crucial in
+opening up expanded sales markets in a range of industries, including manufacturing, warehousing,
+distribution centers, and inspection for hazardous locations.
+This session will convey how testing to UL robotics standards can help further demonstrate safety for robots,
+components and systems, including fire and shock risks, energy & battery system hazards, functional safety,
+object detection & avoidance, and injury hazards. Learn how testing to UL robotics standards can help
+complement your A3/RIA verification and validation to open up new business segment and market
+opportunities for your robot products.
+Michael Jensen
+Product Manager - Industrial Robotics
+UL Solutions8:00 AM - 8:45 AM (EDT) Room 310B
+Unlocking Precision: Solving Complex Industrial Inspection Challenges
+with Hyperspectral Imaging
+Jörg Schmitz, Business Development Manager, Specim
+Topic(s): Machine Vision, Imaging & Inspection
+Hyperspectral Imaging (HSI) is revolutionizing industrial machine vision by offering unparalleled precision in
+detecting and sorting materials. Unlike traditional imaging methods, HSI captures data across hundreds of
+spectral bands, extending beyond the visible range, making it ideal for the most demanding industrial
+applications.
+As industries increasingly adopt HSI, it proves indispensable in applications where traditional technologies like
+RGB and X-ray fall short. From black plastic sorting and semiconductor material quality assurance to food
+processing and safety, HSI is becoming a cornerstone of advanced industrial processes.
+This session delves into how HSI tackles the most complex challenges in industrial environments. We will also
+explore software solutions for integrating HSI into inline processes, enabling real-time monitoring and quality
+control, and discuss strategies to overcome key challenges in its implementation.
+Jörg Schmitz
+Business Development Manager
+Specim
+9:00 AM - 10:00 AM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Digital Servo Amplifier Basics
+Tim Brennan, Sr. Automation Engineer, KEBA
+Topic(s): Motion Control & Conveyance Motors & Drives
+The basic operation of a digital servo amplifier, including servo control loops, tuning a servo system, defining
+system bandwidth, and how to select the proper amplifier for applications. Basics of the major networks/field
+busses and advantages/disadvantages of each.Tim Brennan
+Sr. Automation Engineer
+KEBA
+9:00 AM - 9:45 AM (EDT) Grand Riverview Ballroom
+KEYNOTE (free to all registered attendees)
+Redefining Industry: A Bold New Era for American Manufacturing and the
+Opportunities It Creates for the American Workforce
+Aamir Paul, President, North America Operations, Schneider Electric
+The latest innovations in artificial intelligence, digitization, automation, and sustainable infrastructure are
+fueling a massive transformation across the industrial space — impacting virtually every facet of the sector
+from production to delivery and, most importantly, the people behind it.
+Automation, digitalization, advanced robotics and AI are not only enhancing visibility and control but also
+driving significant efficiency improvements and boosting productivity. Making the most
+of these opportunities requires overcoming some of the industry’s greatest challenges, ranging from
+time and workforce management to adopting competitive business models built for a dynamic, flexible world.
+As we look back at the technological innovation over the past century, it is clear that the industrial revolution
+we are witnessing now is unprecedented in terms of momentum and scale. And it’s one that will
+require industry to challenge its most core beliefs and reimagine and redefine what is possible.
+Aamir Paul, President of North America Operations, will explore the opportunity that now
+exists as a result and what that means for the future of US manufacturing and its future-ready workforce.
+Questions we will answer:
+How will industrial automation impact the workforce today and tomorrow?
+What do different generations need from automation in their daily jobs? What does it mean for the jobs of
+tomorrow’s workforce?
+Which industries will benefit the most and/or have the potential to scale the fastest?Aamir Paul
+President, North America Operations
+Schneider Electric
+10:00 AM - 11:30 AM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+Motion Controllers, Programming, and System Design Basics
+Vishwanath Ketkar, Motion Controls Engineer, Beckhoff Automation LLC
+Topic(s): Motion Control & Conveyance Motors & Drives
+Overview of the software and hardware elements necessary to build a motion system, and how to integrate
+motion with other systems when designing a machine. Basic motion control software and programming
+languages.
+Vishwanath Ketkar
+Motion Controls Engineer
+Beckhoff Automation LLC
+10:15 AM - 11:00 AM (EDT) Room 320
+AI-Powered Digital Twins for Boosting Performance of Smart Robotic Cells
+Satyandra K. Gupta, Co-Founder & Chief Scientist, GrayMatter Robotics
+Topic(s): AI & Smart Automation Robotics: Applications, Systems & Innovations Simulation and Digital
+Twins
+Many manufacturing companies are facing an acute shortage of qualified workers. Deploying robotic cells is a
+potential solution to address this challenge. Historically robots have been deployed only in mass production
+applications in manufacturing. A large fraction of manufacturing is classified as high-mix manufacturing where
+a large variety of products are produced in small quantities. Manually programming robots is not a viable
+solution in high-mix manufacturing applications. We need smart robotic cells to make them useful in high-mix
+manufacturing applications.AI-powered digital twins are ushering a new era of manufacturing by lowering costs, reducing errors,
+improving quality, increasing performance, and reducing the environmental footprint. This presentation will
+begin with an overview of digital twin technology that can be used to significantly improve performance of
+smart robotic cells. A digital twin is a digital counterpart of a real-world system. The digital twin performs
+continuous model updates using sensor data to mirror the current state of the physical system. Therefore,
+information flows from the physical system to the digital twin. A digital twin is also used to influence the
+operation of the physical system. Therefore, information also flows from the digital twin to the physical system.
+This two-way information flow makes digital twins different from purely digital models.
+The next part of this presentation will describe how digital twins are being used in smart robotic cells. Digital
+twins are being used to provide information to task planners and schedulers to make decisions about the next
+tasks to perform based on the current state of the cell. Digital twins also enable monitoring the performance of
+the cell in real-time and use this data to predict when maintenance is needed, reducing unexpected downtime
+and preventing machine breakdowns. Digital twins are being used for identification of defects and perform
+real-time quality control. By analyzing manufacturing process data, digital twins are able to identify areas for
+optimization and recommend changes to realize improvements. Digital twins are able to provide a detailed
+record of processing/operating conditions to ensure compliance with relevant regulations. Digital twins can be
+used to optimize the manufacturing operations in real-time to support on-demand production of personalized
+products in a cost-effective manner.
+The final part of the presentation will discuss how AI is adding new capabilities to digital twins. Simulations are
+necessary to generate optimal plans for performing autonomous operations. Traditional simulations lack the
+speed required when dealing with part models with uncertainties. Machine learning is being used to create
+fast simulations based on neural networks, endowing digital twins with new planning and prediction
+capabilities. Tool motion cannot be safely executed using position control in the presence of uncertainties. An
+AI-based controller needs to be used that uses force feedback to dynamically adapt tool motion to prevent part
+damage and maximize tool life. AI-based prognostics and health management can be used by digital twins to
+ensure that the onset of adverse events can be automatically detected and corrective actions can be taken.
+For example, the digital twin can utilize the force and vision data to determine the cause of rapid tool wear in
+robotic finishing and take corrective measures to prevent it.
+Satyandra K. Gupta
+Co-Founder & Chief Scientist
+GrayMatter Robotics
+10:15 AM - 11:00 AM (EDT) Room 330A
+Collaborative Innovation through the ARM Institute
+Christopher Adams, Operations Manager, ARM Institute
+Philip Freeman, Senior Technical Fellow, The Boeing Company
+Anthony Gioia, Vice President, Premier Labs
+Mingu Kang, CEO, ARIS TechnologyTopic(s): ARM Institute Robotics: Applications, Systems & Innovations
+As a Manufacturing Innovation Institute part of the Manufacturing USA Network, the ARM (Advanced Robotics
+for Manufacturing) Institute makes robotics and artificial intelligence (AI) more accessible to manufacturers of
+all sizes to strengthen U.S. manufacturing. The ARM Institute does this by leveraging its 450+ member
+organization ecosystem comprised of manufacturers, robotics and AI providers, start-ups, universities,
+community colleges, MEPs, government entities, and others. By bridging the gaps between these diverse
+groups, the ARM Institute identifies key issues inhibiting robotics and manufacturing and catalyzes impactful
+projects to address areas of need.
+This presentation will detail a few impactful success stories and use cases from ARM Institute-funded projects
+with a focus on how these innovations are helping the industry today. Attendees will learn how they can get
+involved in future ARM Institute projects and leverage the outputs from the 120+ projects that the ARM
+Institute has funded since 2017.
+Christopher Adams
+Operations Manager
+ARM Institute
+Philip Freeman
+Senior Technical Fellow
+The Boeing Company
+Anthony Gioia
+Vice President
+Premier Labs
+Mingu Kang
+CEO
+ARIS Technology10:15 AM - 11:00 AM (EDT) Room 321
+Mastering the Complexities of Robotic Depalletizing
+Stacey Harimoto, Senior Engineer, FANUC America Corporation
+Topic(s): Logistics & Supply Chain Material Handling Advances Robotics: Applications, Systems &
+Innovations
+Focusing on the complexities of robotic depalletizing, this presentation will present actionable solutions using
+real-world case studies, visuals and personal anecdotes. In it, the most common depalletizing issues will be
+presented and discussed, with analysis offered on how to determine the best course of action based on
+individual needs.
+This presentation will focus on:
+The impact of visual guided robotics on the application as well as anticipated process improvements
+How AI and machine learning has been used to improve the vision process (particularly in accurate item
+segmentation)
+The critical role that end-of-arm tooling plays as packages become heavier or less stable
+Pros and cons of current tooling selections in the marketplace
+Stacey Harimoto
+Senior Engineer
+FANUC America Corporation
+10:15 AM - 11:00 AM (EDT) Room 330B
+Self-Programming Robotic Repair: From Delicate Paint-Repair to
+Heavy-Duty Steel Parts
+Christof Eberst, CEO, Convergent Information Technologies GmbH
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration Robotics: Applications,
+Systems & Innovations
+In the session, we will present a dozen years of development in robotic repair – and lessons learned. We will
+also present which technologies in planning and tooling are available and arising and will discuss their
+strengths and weaknesses. A special focus will be on superior planning solutions and on the role of learning
+now and in the future.The presented applications range from heavy-duty crack repair of steel parts to the highest-quality repair of
+delicate coated surfaces. The presentation will also discuss commonalities and differences and possibilities
+and limits of technology re-use in automating the programming of these very different tasks for different
+industries.
+Christof Eberst
+CEO
+Convergent Information Technologies GmbH
+10:15 AM - 11:00 AM (EDT) Room 310B
+Taking Manual Production or Processes into the World of Automation
+Mike DeRosier, Business Development Manager / Safety Manager, Advent Design Corporation
+Topic(s): Getting Started with Automation
+Converting manual assembly or production processes into automation presents significant challenges,
+particularly in justifying the Return on Investment (ROI). A common misconception is that automation requires
+an “All or Nothing” approach, where fully automating everything makes ROI seem unattainable. However, this
+is not true. There are strategic ways to begin the automation process, achieve a reasonable and acceptable
+ROI, and gradually transition to automation. This session will guide companies through practical steps to
+integrate automation into their facilities.
+Mike DeRosier
+Business Development Manager / Safety Manager
+Advent Design Corporation
+10:30 AM - 12:00 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Non-Visible Imaging: Infrared Technology and Applications
+Romik Chatterjee, VP Business Development, Graftek Imaging
+Topic(s): Machine Vision, Imaging & InspectionNon-visible imaging methods offer unique benefits for a variety of vision tasks. In this session, you’ll learn
+more about infrared and thermal techniques and better understand if non-visible imaging solutions are right for
+your specific needs.
+Romik Chatterjee
+VP Business Development
+Graftek Imaging
+10:30 AM - 1:00 PM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+Vision System Design
+David Dechow, Automation Solutions Architect, Motion Automated Intelligence
+Perry West, President, Automated Vision Systems, Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+Ultimately the value of any machine vision technology lies in the successful implementation of a systems
+solution for a task in an automated process. The knowledge gained in cameras, lighting, optics, and image
+processing is the foundation required to move on to the successful design of a working machine vision system.
+In this course, you will learn the role of machine vision systems design in the broader task of systems
+integration and the general steps and strategies involved in the design of a vision system, including selection of
+components in typical use cases, and specification of the implementation of those components. The
+information provided will enable you to participate in and support a team delivering practical machine vision to
+plant floor automation.
+David Dechow
+Automation Solutions Architect
+Motion Automated Intelligence
+Perry West
+President
+Automated Vision Systems, Inc.11:15 AM - 12:00 PM (EDT) Room 330A
+Advancing Manufacturing with Agile Autonomous Systems
+Chuck Brandt, Chief Technology Officer, ARM Institute
+Matthew Brown, CEO, ThoughtForge Inc
+Michael Groeber, Associate Professor, The Ohio State University
+Amanda Howell, Sr. Principal Manufacturing Systems Engineer, Northrop Grumman
+Topic(s): ARM Institute Robotics: Applications, Systems & Innovations
+The ARM (Advanced Robotics for Manufacturing) Institute convenes subject matter experts from across its
+450+ member organization consortium to identify pressing areas of need in robotics and AI for manufacturing.
+One such area that the ARM Institute has focused its project and technology strategy around is agile
+autonomous systems. This presentation will center on how the ARM Institute has catalyzed innovations in
+agile autonomous systems in areas such as visual inspection, finishing, path planning, part insertion, and
+others. The presentation will also explore the use of artificial intelligence (AI) as a key enabler in ARM Institute
+projects and how the ARM Institute will continue to build on this momentum.
+Attendees will walk away from this session with an understanding of the latest advancements in agile
+autonomous systems, how they can get involved in driving further innovations, and what’s next in this area.
+Chuck Brandt
+Chief Technology Officer
+ARM Institute
+Matthew Brown
+CEO
+ThoughtForge IncMichael Groeber
+Associate Professor
+The Ohio State University
+Amanda Howell
+Sr. Principal Manufacturing Systems Engineer
+Northrop Grumman
+11:15 AM - 12:00 PM (EDT) Room 321
+Comprehensive OT Cybersecurity
+Michel Jabbour, GM, Digital Enterprise Services Discrete and Process, Siemens
+Topic(s): Cybersecurity
+This educational experience is designed for IT or OT professionals with a responsibility for – or an interest in –
+OT cybersecurity. It does not matter who your main automation vendor is. In the quest for enhanced
+manufacturing performance, connecting all assets on the shop floor to harness your production data is
+foundational. But it also increases the attack surface of the OT environment. Understanding this challenge
+and the necessary defense strategies is essential to continuously securing your ecosystem. Learn about the
+most advanced risk assessment methodologies, best practices and cybersecure technologies that contribute
+to a robust and dynamic defense ecosystem: all consistent with the NIST 2.0 framework. You will leave with
+new ideas and new tools to secure your OT environment.
+Michel Jabbour
+GM, Digital Enterprise Services Discrete and Process
+Siemens
+11:15 AM - 12:00 PM (EDT) Room 310BDesigning the Warehouse of the Future – A Blueprint for Supply Chain
+Resilience
+Trevor Howard, Sr. Director of Consulting, enVista
+Topic(s): Automation Systems, Design & Integration Logistics & Supply Chain
+What are the keys to designing a high performing warehouse of the future? The answer is very different than
+in the recent past. Today, supply chain leaders face continuously evolving challenges like labor shortages,
+demand surges and a multitude of supply chain disruptions. To combat these challenges and thrive as an
+organization, leaders must create and implement flexible warehouse strategies for supply chain resilience. In
+this session, enVista’s supply chain strategy experts will share the critical components required to design the
+warehouse of the future.??
+Trevor Howard
+Sr. Director of Consulting
+enVista
+11:15 AM - 12:00 PM (EDT) Room 320
+Panel: From Demo Hall to Production Floor; How to Successfully Deploy
+New Technology at Scale
+Tim Buschur, Chief Strategy Officer, Invisible Ai
+Cindy Cedeno, Manager, Digital Acceleration/Technical Assistant to VP, Nissan
+Eric Danziger, CEO & Co-Founder, Invisible AI
+Brian Eggleston, General Manager - Manufacturing Innovation, Toyota Motor North America
+Topic(s): Emerging Applications Machine Vision, Imaging & Inspection
+This panel should include a mix of tech providers and manufacturers to discuss the logistics of successfully
+deploying new technology in manufacturing facilities. Often, the exciting new technology we see demoed at
+industry events is not ready for real-world production. We will discuss Pat Gelsinger's Laws of the Edge,
+change management strategies, and methods of extracting short-term and long-term ROI from new
+technology.
+Tim Buschur
+Chief Strategy Officer
+Invisible AiCindy Cedeno
+Manager, Digital Acceleration/Technical Assistant to VP
+Nissan
+Eric Danziger
+CEO & Co-Founder
+Invisible AI
+Brian Eggleston
+General Manager - Manufacturing Innovation
+Toyota Motor North America
+11:15 AM - 12:00 PM (EDT) Room 330B
+Training Robots Through Real World Demonstration
+Evan Beard, CEO/Cofounder, Standard Bots
+Topic(s): AI & Smart Automation Robotics: Applications, Systems & Innovations
+We'll review the latest advances in AI and robotics, and what's possible now with the latest advances in
+demonstration learning. Our company makes handheld devices that allow training robotic arms through
+demonstration, and we show examples of the types of tasks this enables that were not previously possible.
+We'll also go through how the AI models work, and the implications of this new way to program a robot.
+Evan Beard
+CEO/Cofounder
+Standard Bots1:30 PM - 2:15 PM (EDT) Room 320
+Doing More with Less Through Simulation
+Graham Wloch, Director of Business Development, Visual Components North America Inc.
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration Simulation and Digital
+Twins
+Manufacturing and its challenges are constantly changing and evolving. In the last several years those
+challenges have been accelerated and left manufacturers needing new tools to deal with them effectively. The
+same old way of doing things simply isn’t good enough anymore and new tools are needed.
+Simulation allows you to visualize and better understand your manufacturing process. From capturing
+concepts and ideas to get everyone on the same page and to launch continuous improvement projects,
+simulation can give you the edge in your industry. By comparing scenarios in the simulation environment, you
+can use the statistics Visual Components can generate to make data driven decisions that you are genuinely
+confident in.
+Want to automate processes but are unsure where to begin? Simulation can show you exactly what the
+outcome will be so you can avoid zero net gain or even worse, have unintended consequences because of a
+consequential decision. Automation for the sake of automation is never a good idea, but using simulation can
+determine the best-case scenario for the improvement of a process.
+Robots, AGVs, and AMRs are often the focus of automation which makes sense. People however are just as
+important. With the shortage of skilled workers, having them in the right places is critical for a process to
+achieve maximum efficiency. Along with those highly coveted skilled workers, the interaction of all resources
+is essential when it comes to understanding the complete manufacturing process.
+The right automation and the right people in the right places can lead to increased thruput, efficiency, reduced
+capital expenditure, a smaller footprint, and an increase the bottom line. Simulation lets you achieve all of
+these without having to disrupt your ongoing process.
+Simulation is no longer a novelty, but a necessity for companies looking to use all of the tools available to them
+to improve processes and do more with less at the same time!
+Graham Wloch
+Director of Business Development
+Visual Components North America Inc.
+1:30 PM - 2:15 PM (EDT) Room 330BEmerging Technologies and Architectures of Automated Systems with
+Integrated Functional Safety
+Linda Caron, Global Product Sales Manager, Functional Safety, Parker Hannifin, Pneumatic Division
+Eric Lanke, President/CEO, National Fluid Power Association
+Topic(s): Automation Systems, Design & Integration National Fluid Power Association Safety in
+Automation and Manufacturing
+The Advantages of Digital Fluid Power for Industrial Applications
+Hydraulics and pneumatics have long been key actuation technologies for all kinds of industrial and in-plant
+applications. Recent advances in the digitalization of fluid power have increased their capabilities and provided
+for deeper hybridization and integration with electrical and other systems on industrial machines. In these three
+sessions, we’ll hear from three fluid power suppliers, talking directly about the application of these new
+technologies in the in-plant environment, with each engaging the audience in a robust question and answer
+session about current and future developments.
+Moderator: Eric Lanke, President/CEO, National Fluid Power Association
+Emerging Technologies have added a degree of sophistication to the plant floor. Collective wiring has
+migrated to networked communication. Different topologies can be used to connect devices such as IO-Link
+and the integration of safety circuits both hardwired and over network bring about new challenges. Together
+we explore the integration of emerging technology and the expansion of functional safety to fluid power
+components.
+Linda Caron
+Global Product Sales Manager, Functional Safety
+Parker Hannifin, Pneumatic Division
+Eric Lanke
+President/CEO
+National Fluid Power Association
+1:30 PM - 2:15 PM (EDT) Room 310B
+Multiview Bin Picking and Real-time Robotics - Pushing the Boundaries of
+3D Vision-Guided Robotics
+Frantisek Takac, Global Strategic Partnerships Manager - Robotic Vision, Photoneo s. r. o.Topic(s): Machine Vision, Imaging & Inspection Robotics: Applications, Systems & Innovations
+This session dives deep into overcoming challenges in robotic vision, with a focus on 3D vision-guided
+robotics innovative solutions:
+Conquering Occlusions with MultiView:
+Traditional single-perspective 3D scanning often struggles with complex shapes and reflective materials.
+Think thin metal sheets, bins with compartments, or objects with intricate geometries. Crucial features get
+hidden, leading to missed parts, inaccurate grasps, and slow cycle times.
+MultiView approach in 3D VGR tackles this head-on by merging scans from multiple viewpoints. This reveals
+hidden details, ensuring precise localization even for the trickiest objects. Imagine capturing every intricate
+curve of a thin, reflective part, no matter how it's positioned. This is a game-changer for applications
+demanding high accuracy and reliability.
+The Power of Parallel Structured Light:
+Underlying this breakthrough is patented Parallel Structured Light technology. Unlike conventional structured
+light, which relies on sequential images, Photoneo captures the entire scene in a single snapshot. This
+eliminates motion blur and provides high-resolution 3D data even with moving objects.
+Key Advantages:
+Unmatched Accuracy: Capture precise 3D data even for complex shapes and challenging materials.
+Speed and Efficiency: Eliminate the need for time-consuming repositioning and regripping.
+Motion Compatibility: Scan objects in motion, opening up new possibilities for dynamic applications.
+This session showcases how MultiView and Parallel Structured Light technology work together to overcome
+limitations in robotic vision, enabling a new era of automation possibilities.
+Frantisek Takac
+Global Strategic Partnerships Manager - Robotic Vision
+Photoneo s. r. o.
+1:30 PM - 2:15 PM (EDT) Room 310A
+Transforming Industries with Generative AI: Unlocking Efficiency,
+Innovation, and Data-Driven Insights
+Gregory Egeler, Principal Advisor, AI and Modern Data Strategy, AWS
+Topic(s): AI & Smart Automation
+In today’s fast-paced digital world, Generative AI is emerging as a game-changer, redefining how industries
+operate and innovate. Join us for an in-depth exploration of how this cutting-edge technology is empowering
+organizations to drive unprecedented productivity and agility. Discover how Generative AI enables employees
+to quickly access critical information, automate report generation, and even expedite application
+development—transforming everyday tasks into efficient, data-driven processes. We’ll dive into real-world usedevelopment—transforming everyday tasks into efficient, data-driven processes. We’ll dive into real-world use
+cases from Amazon and AWS customers across finance, healthcare, manufacturing, and retail, demonstrating
+how AI services are accelerating the data-to-decision lifecycle. Whether you're looking to enhance operational
+efficiency or drive innovation, this session provides a roadmap to harnessing the latest advancements in
+AWS’s Generative AI solutions to achieve impactful results.
+Gregory Egeler
+Principal Advisor, AI and Modern Data Strategy
+AWS
+1:30 PM - 2:15 PM (EDT) Room 321
+Where Will the Newest Breakthrough in Robots Come From? Where Have
+We Been and Where Are We Headed?
+George Barbu, Robotic Solutions Manager, EPSON
+Topic(s): Emerging Applications Robotics: Applications, Systems & Innovations
+They first enriched our lives in the 1980’s when they were first widely deployed in the automotive industry to
+help improve the quality of the welding & painting of cars across all the automotive manufacturers in Michigan.
+So much so, that General Motors owned their own robotics company called GMF Robotics. They needed this
+technology & like many internet companies of today, they wanted to own a company that would give them a
+competitive advantage. GM would eventually sell their stake in the robotics venture so the robots could be
+sold commercially to other manufacturers. The need for welding and painting robots mostly led to the
+development of the 6 axis articulated arm that funded the growth of that industry.
+On the other side of the world, Seiko watches needed to develop specialized robots to assembly precision
+watches together to improve the throughput and quality of their watches. So they developed a line of robots
+that they in turn sold commercially to other manufacturers. The manufacturing need of small precision
+assembly led to the development of the Scara robot and funded the growth of that industry.
+These are just 2 examples of manufacturers with a unique set of manufacturing needs that resulted in the
+development of robotic technology that would help them get a manufacturing advantage in the industry and
+that they would eventually sell to other manufacturers.
+In todays world, we have a new unique set of problems that are mostly being met by off-the-shelf robotics that
+have been around for the better part of 30-40 years. The next evolution of robots could certainly come from
+similar type of circumstances that spawned the modern robotics industry.
+There is a need for robots to cover a new and set of challenges and a accelerated sensing technology that is
+currently being developed by the automotive industry for autonomous vehicles. Will this be the catalyst for the
+next generation of robots?
+When a 3,000lb car can drive itself on an expressway with sensors, camera’s and GPS navigation – we may
+just have the recipe for the next set of robots that could very well be developed outside of the traditional robotsuppliers who faced the same challenges in the 1980’s.
+You combine the sensing technology that cost less than $3 to make with a vision system and a localized GPS
+& you have the ultimate crash free worker friendly robot. Will an industry needing such a robot be the first to
+use & deploy internally & then sell to the rest of the world? This & other ideas could be replicated if the
+traditional robot suppliers remain building the same robots they started with.
+Lets explore different ideas, concepts, and let our minds wander at what the future may be like and who may
+be making the next big idea in robotics a reality.
+George Barbu
+Robotic Solutions Manager
+EPSON
+1:45 PM - 3:45 PM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+CMCP Course Review and Exam Prep
+Topic(s): Motion Control & Conveyance Motors & Drives
+Review the CMCP courses and prepare for the certification
+exam.
+2:00 PM - 5:00 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Advanced Color Machine Vision & Applications
+Romik Chatterjee, VP Business Development, Graftek Imaging
+Topic(s): Machine Vision, Imaging & Inspection
+Explore the different levels of image quality at the sensor level. Details relating to quantum efficiency, dark
+noise, signal to noise ratio will be discussed in detail. In addition to topics related to area scan cameras, the
+proper usage of line scan and TDI cameras will be reviewed. Sensor size classification and relationship to the
+camera’s lens mount will be covered.Romik Chatterjee
+VP Business Development
+Graftek Imaging
+2:00 PM - 3:00 PM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+CVP-Basic Course Review Video
+Topic(s): Machine Vision, Imaging & Inspection
+Review the CVP-Basic courses and prepare for the certification exam.
+2:30 PM - 3:15 PM (EDT) Room 321
+Accurate Measurements with Machine Vision: Just How Accurate can they
+Be?
+Perry West, President, Automated Vision Systems, Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+The ability to make highly accurate measurements with a precision to a small fraction of a pixel is a strength of
+machine vision that sets it apart from human vision and many alternative technologies. One consideration is
+how to correlate machine vision measurements with alternative measurement techniques. However, there are
+still other limits to how accurately and precise machine vision can perform measurements. This talk looks at
+these limiting factors. Some of these factors are the dependence on models for the shape of the edge, for the
+optical waveform across the edge, the interaction of the lens and image sensor, and for the image sensor
+itself. Some of these factors can be addressed with appropriate system design considerations. Still, a few
+factors are outside available technology to mitigate and need to be considered when creating a system
+specification.
+This talk identifies a number of factors that affect the accuracy and precision of measurements and identifies
+which can be resolved through careful system design and which are limitations with today’s technology.Perry West
+President
+Automated Vision Systems, Inc.
+2:30 PM - 3:15 PM (EDT) Room 310B
+Electric Motor Efficiency Standards & Tariffs: What to Know, How to
+Navigate?
+Mark Puglia, Director of Product Engineering, ECM PCB Stator Tech
+Topic(s): Motion Control & Conveyance
+Large economic blocks, the U.S. and EU, are implementing new Minimum Efficiency Performance Standards
+for electric motors based on International Electrotechnical Commission ratings (i.e., IE4, IE5).
+This session will provide a breakdown of those MEPS and offer options (with use case examples) on how to
+comply. That includes demonstrating how advanced Motor CAD and printed circuit board technology can offer
+manufacturers a solution.
+Mark Puglia
+Director of Product Engineering
+ECM PCB Stator Tech
+2:30 PM - 4:15 PM (EDT) Room 310A
+Introduction to Mobile Robot Risk Assessment
+Robert Bollinger, Owner, Dynamic Horizons Automation Solutions LLC
+Topic(s): Autonomous Mobile Robotics Safety in Automation and Manufacturing
+Risk assessment is a key step in the development of safety solutions for all robot systems. When IMRs are
+part of the system, the risk assessment approach needs to be expanded beyond the typical task/hazard pairs
+of traditional systems. This session explores the additional scope to be considered when autonomous mobility
+is introduced.Robert Bollinger
+Owner
+Dynamic Horizons Automation Solutions LLC
+2:30 PM - 3:15 PM (EDT) Room 320
+Open Automation – Driving Responsible Profitability, Sustainability, and
+Empowering the Workforce of the Future
+Fabrice Meunier, Vice President - Industrial Automation End User, System Integrator & Softwa, Schneider
+Electric
+Alan Raveling, Senior Technologist, Interstates
+Sanjith Singh, Global Vice President - Software Defined Automation Industrial Automation, Schneider
+Electric
+Eugene Spiropoulos, Global Autonomous Systems Manager, Yokogawa
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+As industries transition from Industry 4.0 to Industry 5.0, the focus expands beyond automation to include
+human-centric innovation and sustainability. This shift introduces challenges, including integrating IT and OT
+systems, managing cybersecurity risks, and upgrading legacy infrastructures. Businesses must embrace these
+changes while ensuring both profitability and responsible growth.
+This panel will explore how Open Automation technologies, such as EcoStruxure Automation Expert (EAE),
+drive responsible profitability by offering flexible, vendor-agnostic solutions that optimize operations and enable
+data-driven decision-making. Open automation promotes transparency, reduces reliance on proprietary
+systems, and supports sustainability by optimizing resource utilization and enabling circular economy
+practices. It also empowers businesses to adapt to evolving demands and fosters collaboration and continuous
+improvement.
+We’ll discuss how open automation not only enhances efficiency and profitability but also empowers the
+workforce of the future, providing the tools to thrive in a world driven by AI, IoT, and sustainable innovation.
+Discover how open automation bridges the gap between Industry 4.0 and Industry 5.0, delivering economic,
+environmental, and social value.
+Fabrice Meunier
+Vice President - Industrial Automation End User, System Integrator &
+Softwa
+Schneider ElectricAlan Raveling
+Senior Technologist
+Interstates
+Sanjith Singh
+Global Vice President - Software Defined Automation Industrial
+Automation
+Schneider Electric
+Eugene Spiropoulos
+Global Autonomous Systems Manager
+Yokogawa
+2:30 PM - 3:15 PM (EDT) Room 330B
+Pneumatic Operational Improvement via Digitalization
+Eric Lanke, President/CEO, National Fluid Power Association
+Frank Latino, Global Product Manager, FESTO CORPORATION
+Topic(s): Automation Systems, Design & Integration National Fluid Power Association
+The Advantages of Digital Fluid Power for Industrial Applications
+Hydraulics and pneumatics have long been key actuation technologies for all kinds of industrial and in-plant
+applications. Recent advances in the digitalization of fluid power have increased their capabilities and provided
+for deeper hybridization and integration with electrical and other systems on industrial machines. In these three
+sessions, we’ll hear from three fluid power suppliers, talking directly about the application of these new
+technologies in the in-plant environment, with each engaging the audience in a robust question and answer
+session about current and future developments.
+Moderator: Eric Lanke, President/CEO, National Fluid Power Association
+Leveraging digital technologies such as digital communications, machine learning, artificial intelligence,
+Internet of Things, and Edge Computing can improve the operation of pneumatic systems. Specifically, the
+maintenance process, energy consumption, and machine safety. Machines must be digitally connected toaccess data from smart devices to achieve this. We will discuss the use of these technologies. The basis will
+be on ethernet and IO-Link. We will touch on performance characteristics such as speed, capacity, and
+security. We will then look at use cases that will provide benefits to machine builders, including networked
+safety, sustainability, and predictive analysis.
+Eric Lanke
+President/CEO
+National Fluid Power Association
+Frank Latino
+Global Product Manager
+FESTO CORPORATION
+2:30 PM - 3:15 PM (EDT) Room 330A
+The Business Case for Automation
+Marc Fuentes, Director of Marketing, Eclipse Automation, part of Accenture
+Topic(s): The Business Case for Automation
+Automation and smart factories offer increased efficiency, cost savings, and scalability. Automated systems
+reduce human error, enhance productivity, and enable continuous operation, leading to higher output and
+profitability. As industries move towards smart factories, the possibilities of leveraging AI, IoT, and machine
+learning to optimize supply chains, improve quality control, and adapt to demand changes in real time are
+endless. Investment in automation also addresses labor shortages by handling repetitive tasks, allowing the
+workforce to focus on innovation and insights derived from smart factories to effect positive change. It wasn’t
+that long ago that factories produced data to populate dashboards. Today, with the help of AI, data will be
+analyzed, insights derived, and shared faster from the shop floor to the top floor, allowing critical decisions to
+occur faster, almost in real-time. The future is here. Design and build your factories for tomorrow by
+incorporating human, industry, and technology expertise to enable fully autonomous factories that will drive
+sustainability, speed up production cycles, and ensure competitive advantage globally.Marc Fuentes
+Director of Marketing
+Eclipse Automation, part of Accenture
+3:30 PM - 4:15 PM (EDT) Room 310B
+Better Programs Built Earlier Using Virtual Commissioning
+Andy Cannon, Controls Development Coordinator, ATC Automation & Robotics
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration Simulation and Digital
+Twins
+The presentation will use examples from multiple projects to show how Virtual Commissioning (VC) and
+Simulation are powerful tools that play a critical role in enhancing industrial automation processes. By
+integrating VC and Simulation into the project workflow, companies can significantly mitigate risks and ensure
+more accurate scheduling, which allows for the early identification of design issues before they impact
+production timelines. These tools also reduce stress on both employees and customers by providing a more
+controlled and efficient debugging process. Furthermore, VC enables more exhaustive software testing in a
+simulated environment, ensuring system reliability and performance. The use of Virtual and Augmented
+Reality (VR/AR) further enriches design review capabilities, offering immersive visualization and interaction
+with the system, leading to more informed decision-making. This proactive approach results in improved
+system quality, greater efficiency, and a more streamlined commissioning process.
+Andy Cannon
+Controls Development Coordinator
+ATC Automation & Robotics
+3:30 PM - 4:15 PM (EDT) Room 320
+Harnessing the Power of IO-Link Technology
+Kyle Lake, Product Market Manager, Baumer
+Topic(s): Automation Systems, Design & Integration
+IO-Link technology has seen significant growth recently, offering companies opportunities to enhance processefficiency and cut costs. With standardized wiring, enhanced data availability, and advanced diagnostics, the
+benefits are undeniable.
+In this presentation, explore some of the newest products to optimize operations, like a multi-port IO-Link
+master, enabling rapid cycle times of up to 400µ and real-time capabilities, maximizing sensor potential. You'll
+even experience a live demo of a free PC software, Baumer Sensor Suite, that simplifies sensor
+parameterization, regardless of the manufacturer. Don't miss this chance to discover cutting-edge technology
+that saves time and resources.
+Key Learnings:
+Unlocking IO-Link Benefits: Learn from real-life applications
+Discover the newest IO-Link products
+Get a live demo of a free PC software called Baumer Sensor Suite for easy parameterization
+Kyle Lake
+Product Market Manager
+Baumer
+3:30 PM - 4:15 PM (EDT) Room 321
+Preparing for AMRs: Enhancing Material Handling with Autonomous
+Mobile Robots
+Vikram Kumar, NA Sales, Milvus Robotics
+Topic(s): Autonomous Mobile Robotics Logistics & Supply Chain Material Handling Advances
+In today’s fast-paced manufacturing landscape, efficient and responsive material handling is crucial. This
+session explores how Automated Mobile Robots (AMRs) are transforming workflows in large-scale
+environments with diverse inventory needs. Attendees will discover how AMRs, integrated with advanced fleet
+management systems, enhance warehouse operations by enabling dynamic pickup allocation, seamless
+material requests, and real-time responsiveness.
+The presentation will detail how robust fleet management uses real-time data to allocate warehouse pickup
+points based on inventory, production schedules, and material flow. This strategy reduces AMR travel time,
+minimizes congestion, and boosts overall efficiency. Participants will also learn about integrating an advanced
+call-off system that links production line requests to the fleet management system, ensuring just-in-time
+material delivery.
+Additionally, the session will showcase how sophisticated software optimizes AMR routes and schedules,
+using a 'taxi line' approach for quick task assignments and efficient pre-positioning. This flexibility reduces
+buffer zones, freeing up space and enhancing facility utilization.
+Through case studies and real-world examples, the session demonstrates how AMR integration boostsflexibility and efficiency, supporting just-in-time delivery. Attendees will gain insights into how these
+innovations redefine material handling, helping companies stay competitive in a dynamic industry.
+Vikram Kumar
+NA Sales
+Milvus Robotics
+3:30 PM - 4:15 PM (EDT) Room 330A
+Surge Protection - Preventative Maintenance: Disaster Avoidance.
+Matt Wakeham, Region Manager, Citel
+Topic(s): Automation Systems, Design & Integration Safety in Automation and Manufacturing
+The reliability and integrity of equipment in the Automation environment are beyond critically important. One
+component of a preventative maintenance program is to ensure AC, DC, PV, RF, Signal, and Data lines are
+protected against transient disturbances. This session will discuss surge protection technologies and
+applications in the automated factory to ensure continuous operations.
+Matt Wakeham
+Region Manager
+Citel
+3:30 PM - 4:15 PM (EDT) Room 330B
+The Electrification of Industrial Hydraulics – A Glimpse into the Future
+(Now)
+Eric Lanke, President/CEO, National Fluid Power Association
+Christopher Parisse, Senior Controls Product Engineer, Bosch Rexroth
+Topic(s): National Fluid Power Association
+The Advantages of Digital Fluid Power for Industrial Applications
+Hydraulics and pneumatics have long been key actuation technologies for all kinds of industrial and in-plant
+applications. Recent advances in the digitalization of fluid power have increased their capabilities and providedapplications. Recent advances in the digitalization of fluid power have increased their capabilities and provided
+for deeper hybridization and integration with electrical and other systems on industrial machines. In these three
+sessions, we’ll hear from three fluid power suppliers, talking directly about the application of these new
+technologies in the in-plant environment, with each engaging the audience in a robust question and answer
+session about current and future developments.
+Moderator: Eric Lanke, President/CEO, National Fluid Power Association
+When you think about traditional hydraulic systems, the first thing that may come to mind is a loud energy
+hogging oily solution. These types of machines are a thing of the past thanks to the harmony of electrification
+with hydraulic systems. This transition is driven by advancements in hydraulic motion control, variable speed
+drives and clever system design, enabling the replacement of conventional hydraulic components with
+electro-hydraulic alternatives. Electrified hydraulic systems offer benefits such as improved energy efficiency,
+reduced emissions, lower maintenance requirements, and enhanced system controllability. Applications span
+across industries such as industrial automation, heavy manufacturing, plastics processing, machine tool and
+more where the demand for cleaner and more efficient power solutions continues to grow. During this
+presentation we will discuss the concepts that will provide benefit to machine builders, including the integration
+of VFDs and servo drives in hydraulic applications, a different concept of a hydraulic power unit, and the
+benefits of power density with hydraulics.
+Eric Lanke
+President/CEO
+National Fluid Power Association
+Christopher Parisse
+Senior Controls Product Engineer
+Bosch Rexroth
+4:00 PM - 5:00 PM (EDT) Room 410B
+Certified Motion Control Professional (CMCP)
+CMCP Exam
+Topic(s): Motion Control & Conveyance Motors & Drives
+Optional. Additional fee required for certification exam.4:00 PM - 5:00 PM (EDT) Room 420A
+Certified Vision Professional (CVP) Basic
+CVP-Basic Exam
+Topic(s): Machine Vision, Imaging & Inspection
+Optional. Additional fee required for certification exam.
+Thursday, May 15, 2025
+8:00 AM - 8:45 AM (EDT) Room 310B
+AI-Driven Precision: Real-World Applications of AI Cobots
+Jerry Chen, Program Manager, Techman Robot Inc
+Topic(s): AI & Smart Automation Collaborative Robotics Robotics: Applications, Systems & Innovations
+With a built-in AI vision system, there are numerous case studies showcasing how our customers use the
+Techman AI Cobot to enhance production while improving quality. Techman Robot provides integrated and
+flexible solutions for vision positioning and inspection with cobots.
+Jerry Chen
+Program Manager
+Techman Robot Inc
+8:00 AM - 8:45 AM (EDT) Room 321Creating Industrial Athletes in Your DCs
+Bo Thomson, Vice President of Consulting, enVista
+Topic(s): Automation Systems, Design & Integration Logistics & Supply Chain
+With increasing labor rates and low unemployment, how do you drive better performance from your
+employees? In this session from enVista, you will learn how to drive performance by creating "industrial
+athletes" in your distribution centers (DCs). This session will highlight key themes from the book "Supervising
+on the Line".?
+Discover strategies to enhance performance in DCs despite rising labor costs and low unemployment.?
+Learn how to develop "industrial athletes" within your workforce to boost efficiency and productivity in your
+DCs.?
+Gain insights from the book "Supervising on the Line," with all eligible attendees receiving a
+complimentary copy.?
+Bo Thomson
+Vice President of Consulting
+enVista
+8:00 AM - 8:45 AM (EDT) Room 310A
+Leveraging AI and Computer Vision to Transform Quality Control and
+Assembly Monitoring
+Nitin Gupta, Vice President, Dori AI
+Topic(s): AI & Smart Automation Machine Vision, Imaging & Inspection
+In today's fast-paced manufacturing landscape, ensuring quality and adherence to standard operating
+procedures (SOPs) is crucial for success. However, traditional methods of quality control can be
+time-consuming, prone to error, and often reactive rather than proactive. In this talk, we'll explore how artificial
+intelligence and computer vision can transform quality control and assembly monitoring for manufacturers.
+Discover how AI-powered computer vision can automate quality inspections and defect detection, enhance
+traceability and compliance, improve production efficiency and reduce waste, and provide real-time insights for
+data-driven decision-making.Nitin Gupta
+Vice President
+Dori AI
+8:00 AM - 8:45 AM (EDT) Room 320
+Revolutionize Your Workflow: Techniques for Advanced Robotic Material
+Removal
+Tucker Sweet, CoLab Team Lead, Schunk
+Topic(s): Material Removal, Grinding & Abrasives Robotics: Applications, Systems & Innovations
+Robots in machine tool operations often have idle time between cycles. Instead of letting them sit dormant,
+utilizing this downtime for secondary tasks—such as material removal—can significantly boost efficiency. This
+session dives into the world of automated material removal, covering what it is, why it's essential, and how to
+implement it effectively.
+Material removal, including deburring, grinding, and polishing, eliminates unwanted material left behind by
+processes like turning, milling, or welding. Failure to address this can lead to assembly issues, safety hazards,
+poor aesthetics, and even increased corrosion. While material removal is crucial, it’s often overlooked until
+late in the process, leading to inefficiencies. Many manufacturers use machine tools—major capital
+investments—to handle basic material removal, but these tasks can be automated with robots and specialized
+tools, improving throughput and reducing cycle time.
+In many cases, manual material removal is still the norm, resulting in repetitive, dirty, and sometimes
+dangerous work for humans. This can lead to inconsistent quality and even defective parts. By automating
+these processes, manufacturers can enhance quality, consistency, and safety, though variations in workpieces
+can make this challenging. In this session, we'll explore strategies to overcome these obstacles, such as
+improving positioning accuracy, measurement capabilities, and tool compensation.
+Attendees will gain insights into the benefits and challenges of robotic material removal and discover how
+different methods can be used to address workpiece defects. Real-world examples will highlight how
+automation can be successfully integrated and deployed to increase productivity and reduce human error,
+making material removal a more streamlined and effective process.
+Tucker Sweet
+CoLab Team Lead
+Schunk9:00 AM - 11:00 AM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Metrology & 2D Calibration Techniques
+Nicholas Susch, Sr. Staff Engineer, Measurements, Engineering Associate, Corning, Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+Participants will gain an understanding of techniques for creating systems that yield reliable and repeatable
+measurement results. Practices for proper calibration of imaging systems ranging from appropriate usage of
+targets to accurate algorithm deployment will be discussed. How to manage images correctly to create
+repeatable results will be reviewed. Anyone who is developing metrology systems or having and need for
+accurate measurements will benefit from this curriculum.
+Nicholas Susch
+Sr. Staff Engineer, Measurements, Engineering Associate
+Corning, Inc.
+9:00 AM - 9:45 AM (EDT) Grand Riverview Ballroom
+KEYNOTE (free to all registered attendees)
+Tech Hype vs Industrial Need: Separating Science Fiction from Scalable
+Solutions
+Ujjwal Kumar, Group President, Teradyne Robotics
+In an era of unprecedented technological development, robotics is poised to transform our lives and
+workplaces beyond measure. But amidst the excitement, how do we differentiate between hype and reality?
+What does industry truly need to drive real value, and what is merely hype designed to captivate
+newsreaders? Above all, where are we in this journey and what impact is AI-enabled advanced robotics having
+on industry in the here and now?
+Ujjwal Kumar, President, Teradyne Robotics, will delve into these questions as well as discussing the
+importance of scalable solutions and open platform technology in advancing automation.Ujjwal Kumar
+Group President
+Teradyne Robotics
+10:15 AM - 11:00 AM (EDT) Room 310B
+AI-Powered Visual Quality Inspection
+Jim Wilmot, Marketing Manager – SIMATIC Products, Siemens Industry, Inc.
+Topic(s): AI & Smart Automation Cybersecurity Machine Vision, Imaging & Inspection
+This educational experience is designed for IT or automation professionals involved in implementing AI to
+enhance quality in production, or for any industrial professionals who have an interest in the key
+considerations for successful AI deployment in the operational environment. It does not matter who your main
+automation vendor is. Discover how AI and vision technology have already transformed quality assurance and
+what further advancements lie in the near future. This session will review success examples that will help
+attendants form a concrete foundation upon which to build their own AI-powered quality capabilities. A range of
+use cases will be considered: from implementations using pre-built apps to more complex scenarios involving
+IPCs with AI accelerators, and how to deploy and manage AI networks effectively across multiple devices.
+Jim Wilmot
+Marketing Manager – SIMATIC Products
+Siemens Industry, Inc.
+10:15 AM - 11:00 AM (EDT) Room 321
+Maximizing Assembly Line Capacity with Generative AI: Tools and Case
+Studies
+Zeeshan Zia, CEO, Retrocausal
+Topic(s): AI & Smart Automation Machine Vision, Imaging & Inspection
+Time studies, Assembly Line Balancing, and Workstation/Cell/Line Design take months of Manufacturing
+Engineer’s time even for a small assembly line. This is a major bottleneck in the Operational Excellence
+strategy of many high volume manufacturers.We will outline the use of GenAI tools to streamline this down to a couple of hours.
+Specifically, we will describe workflows that go from smartphone videos to automatically generate time studies
+and work instructions, and from there to automatically balanced lines according to the evolving needs of a
+business, and finally, to the physical design and layout of the shop floor - all using AI. We will showcase the
+ROI with case studies from two leading manufacturers.
+Zeeshan Zia
+CEO
+Retrocausal
+10:15 AM - 11:00 AM (EDT) Room 310A
+Pushing Boundaries: Industrial Cameras vs. Smart Cameras
+Frank Jakubec, Head of Global Market Segment, Balluff Inc.
+Topic(s): Machine Vision, Imaging & Inspection
+Are you new to industrial cameras, or have you faced the limitations of smart cameras in past
+implementations? Whether you're a beginner or looking to deepen your knowledge, this session is designed
+for you. Join us as we explore the world of industrial cameras, breaking down fundamental terminology,
+essential components, and potential challenges to avoid. You'll learn about key concepts such as shutter
+types, resolution, interfaces, and communication protocols, and why these features matter in real-world
+applications.
+We’ll also cover strategies for optimizing costs through intelligent solutions, helping you make smarter
+choices. By the end of this session, you'll be equipped with the confidence and knowledge to discuss industrial
+camera technology with integrators, customers, and suppliers—and fully understand its potential beyond the
+limits of smart cameras.
+Frank Jakubec
+Head of Global Market Segment
+Balluff Inc.10:15 AM - 11:00 AM (EDT) Room 320
+Real World Stories of Collaborative Automation in Metals Manufacturing
+Will Healy III, Global Industry Manager - Fabricated Metals, Teradyne Robotics / UR
+Topic(s): Material Removal, Grinding & Abrasives
+This session is for business leaders and engineers looking for strong ROI candidates for automation in their
+business. We will dive into real world stories of success where manufacturers big and small have successfully
+implemented rugged & industrial collaborative automation in metals fabrication and machining. From welding
+to CNC machine tending to material handling to press tending to bin picking to inspection to painting to
+palletizing and more, attendees will learn how others are raising product quality, improving their production
+efficiency, boosting labor engagement, and achieving better overall results. This talk will also briefly outline the
+steps needed to be successful with your next robot deployment. So be sure to join us for a fast-paced and
+energetic dive into real shops that have successfully navigated the automation journey and learn about the
+value they’ve gained from the effort.
+Will Healy III
+Global Industry Manager - Fabricated Metals
+Teradyne Robotics / UR
+11:15 AM - 12:00 PM (EDT) Room 321
+Delivering Operational Excellence through a Generative AI powered Digital
+Twin Network
+Ashutosh Prasad, Founder and Chief Executive Officer, KoiReader Technologies, Inc.
+Topic(s): AI & Smart Automation Simulation and Digital Twins
+Many modern logistics, supply chain, and manufacturing operations are yet to fully realize their potential for
+optimization. AI is revolutionizing supply chains by extending beyond automation to drive holistic
+transformation. Vision and Generative AI-powered automation solutions for operations can digitize processes
+and correct inefficiencies in near real-time, streamline workflows, and provide audit trails for quality control.
+With Generative AI-driven network analytics, businesses can uncover hidden data patterns, anticipate
+disruptions, optimize profitability, and unlock excellence, beyond what has been possible with methodologies
+such as Lean and Six Sigma.
+Digital twins, working in synergy with AI, further enhance supply chain optimization by enabling businesses to
+simulate diverse scenarios, pinpoint bottlenecks, and evaluate novel strategies, without impacting real-world
+operations. This powerful combination empowers companies to make proactive decisions, allocate resourceseffectively, and ensure supply chain agility. By harnessing the power of AI and the versatility of digital twins,
+businesses can anticipate challenges, adjust strategies in real time, and cultivate a resilient and efficient
+supply chain that drives operational excellence and a competitive edge.
+We will also cover an example of a real-world implementation of a Goods-To-Person Warehouse Picking and
+Last Mile Yard Intelligence Digital Operations using video analytics and real-time insights that led to
+exponential value creation for a Fortune 50 Food and Beverage company.
+Ashutosh Prasad
+Founder and Chief Executive Officer
+KoiReader Technologies, Inc.
+11:15 AM - 12:00 PM (EDT) Room 310B
+Future-Proof Your Business: Megatrends Shaping the Next Decade of
+Manufacturing
+Henrik Von Scheel, Professor | Industry 4.0 Originator | Strategist | Futurist, Center for Strategic Intelligence
+Topic(s): The Business Case for Automation
+Factories matter and have always been vulnerable for disruption. Forward-thinking manufacturers have a
+once-in-a-generation opportunity to future-proof their business with the three new priorities of productivity,
+resilience, and growth alongside sustainable and traditional objectives of cost/capital, quality, and service and
+redesigning their smart manufacturing.
+Delve into the future of factories through the lens and the megatrends that shape the next decade. From
+technological advancements smart automation, robotics, workforce dynamics, and new economic to business
+imperatives, this session provides a comprehensive look at the future of Smart Manufacturing.
+Led by the leading authority on strategy and f thinking, this session offers strategic thinking with the latest
+management insight and deep operational practical advice.
+Key Highlights:
+Explore megatrends that shape the next decade:
+Discover the paradigm shift evolutionary stages that change everything
+Inspect the Manufacturing Trend Impact Radar that enables productivity, resilient and growth
+Reality check in AI in Manufacturing with AI hypercycle and Smart Automation
+Navigate the trends that influence the present and future
+Explore digital (IOT, IIOT, AIOT), virtual, and physical factors towards smart and Intelligent pathway
+Productivity Enablers: Accelerate Digital, Factory 4.0, CollaborativeIntelligence (Extend Reality), Smart Automation, and Industrial AI.
+Resilient Enablers: Sustainable Operations, Risk Mgt, Predicative Intelligence, Strengthen Ecosystems
+and Future of Work
+Growth Enablers: Profit from Sustainability, Custom Centricity, Financial Reengineering, Sourcing
+Autonomy and Operate to Grow
+Gain insight on latest management and operational practices
+Bring Futures Thinking into Strategy
+Operate to Grow Playbook to Thrive in Uncertainty
+Henrik Von Scheel
+Professor | Industry 4.0 Originator | Strategist | Futurist
+Center for Strategic Intelligence
+11:15 AM - 12:00 PM (EDT) Room 320
+The Case for a Cabinet-Free Future
+Brandon Snell, MX-System Product Manager, USA, Beckhoff Automation LLC
+Topic(s): Automation Systems, Design & Integration
+Automation is continuously evolving, and so are the ways we approach it. For years, control cabinets have
+been a staple in industrial systems, but they come with challenges: they take up space, add complexity, and
+increase energy consumption. Thanks to new advancements in machine mountable hardware, we now have
+an opportunity to completely rethink automation with a more flexible, streamlined approach. Manufacturers can
+now choose from centralized, decentralized, or hybrid architectures while eliminating the need for traditional
+control cabinets.
+The evolution of automation meets a revolution in controls design.
+Traditional centralized control systems often require bulky cabinets that introduce now unnecessary constraints
+simply to protect equipment. As technology advances, manufacturers are discovering new ways to simplify
+their operations, reduce footprint, cut down on installation costs, and make machine troubleshooting more
+intuitive. With modern connectivity and embedded intelligence, users can implement comprehensive machine
+control without having to seal everything away in traditional enclosures. Think about the benefits that
+IP67-rated remote I/Os brought to the market years ago. This can now be extended for all industrial
+components found on a machine from the control cabinet. This includes breakers, suppressors, fuses, power
+distribution, power supply, communications, drives, terminal blocks, relays, contactors, and more.
+Unlocking new potential and embracing the future.Going cabinet-free isn’t just about removing enclosures. It’s a higher-level approach that rethinks how we build
+and manage automation systems today. Imagine having direct access to diagnose and troubleshoot devices
+without the hassle of extra wiring or the risk of opening a live cabinet. A streamlined setup means fewer
+energy-consuming components, reducing overall costs and making operations more sustainable. And with
+smart factory integration, predictive maintenance can become the standard, helping teams prevent issues
+before they happen.
+In this session, we’ll dive into what cabinet-free automation really means for modern manufacturing. We’ll
+cover how you can gain the flexibility of choosing from centralized, decentralized, and hybrid control
+strategies, real-time diagnostics, and sustainability benefits, as well as practical steps to bring these
+innovations into existing systems. If you’re looking for ways to reduce downtime, improve efficiency, or identify
+the next competitive edge in your industry, this discussion will provide insights you can take back to your team.
+The way we automate is changing forever. A cabinet-free approach isn’t just an upgrade, it’s a smarter way
+forward in engineering, and now is the time to learn how it can work for you.
+Brandon Snell
+MX-System Product Manager, USA
+Beckhoff Automation LLC
+11:15 AM - 12:00 PM (EDT) Room 310A
+Unlocking Speed and Precision: AI-Powered Smart Part Numbers for
+Custom Manufacturing
+Brendan Sullivan, Chief Growth Officer, Stellar
+Topic(s): AI & Smart Automation Automation Systems, Design & Integration
+Imagine a world where the process of creating custom-engineered products flows effortlessly, free from the
+bottlenecks of manual part numbering. This session introduces how a global leader in electrical transformers
+innovatively use AI and OpenAI Vision to transform the way custom parts are identified and produced. For a
+business selling largely to data centers through mechanical contractors, speed is everything—especially when
+it comes to handling unique, one-of-a-kind designs.
+Starting with a team of 12 design engineers, crafting 50-100 custom products a week, the AI solution seeks to
+solve the current challenge of the time-consuming task of assigning part numbers manually from custom
+design drawings. By harnessing the power of AI, they’ve revolutionized this process. Their solution reads
+design drawings directly from PTC Creo design files, capturing key details like dimensions and features to
+automatically assign smart part numbers. No more delays, just seamless, automated part identification that
+keeps production moving at top speed.
+In this session, you’ll witness how AI not only accelerates part numbering but also integrates effortlessly into
+existing systems, transforming custom manufacturing from complex to streamlined. Attendees will learn how
+this AI solution compares new designs to a vast product catalog, instantly assigning numbers that work acrossproduction and delivery. This is just the beginning—this manufacturer’s AI journey promises to evolve, bringing
+even greater efficiency and scalability as they continue to push the boundaries of what’s possible.
+Join us to explore how AI can elevate your operations and open the door to a faster, smarter future in
+manufacturing.
+Brendan Sullivan
+Chief Growth Officer
+Stellar
+2:00 PM - 4:30 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+Advanced Image Processing
+David Zerkler, Senior Manager - Machine Vision Learning, Zebra
+Topic(s): Machine Vision, Imaging & Inspection
+The ability to correctly analyze and classify details and particles in an image can be critical
+to the success of an imaging application. Strategies around thresholding, advanced
+morphology and the correct usage of particle filters will be covered. Additional topics
+include training strategies, images transforms, and image filtering.
+David Zerkler
+Senior Manager - Machine Vision Learning
+Zebra
+Friday, May 16, 2025
+8:00 AM - 10:00 AM (EDT) Room 420BCertified Vision Professional (CVP) Advanced
+Advanced Vision System Integration
+David Dechow, Automation Solutions Architect, Motion Automated Intelligence
+Robert Tait, Partner, Optical Metrology Solutions
+Topic(s): Machine Vision, Imaging & Inspection
+Producing a reliable vision system is no accident. It begins with creating a strong specification that carries
+through from component selection to system development and finally on-line deployment. Successful and
+efficient vision systems integration in an automation environment can be achieved by following a general
+well-accepted workflow that will guide the execution of each phase of the process. It’s important also to be able
+to identify certain classic integration challenges that may happen along the way. This course will take you
+through the steps needed to achieve vision system integration success and will detail practical examples of
+typical use cases and the annoying but sometimes-amusing pitfalls that can (and will) occur.
+David Dechow
+Automation Solutions Architect
+Motion Automated Intelligence
+Robert Tait
+Partner
+Optical Metrology Solutions
+1:00 PM - 3:00 PM (EDT) Room 420B
+Certified Vision Professional (CVP) Advanced
+CVP-Advanced Exam
+Topic(s): Machine Vision, Imaging & Inspection
+Optional. Additional fee required for certification exam.
