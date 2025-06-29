@@ -7,19 +7,19 @@
     <style>
         body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; background: #ececf1; }
         .chat-container { width: 100vw; min-height: 100vh; margin: 0; background: #fff; border-radius: 0; box-shadow: none; padding: 0 0 20px 0; display: flex; flex-direction: column; }
-        .chat-header { background: #6c47ff; color: #fff; padding: 24px 0 16px 0; border-radius: 0; text-align: center; font-size: 1.7em; font-weight: 600; letter-spacing: 1px; }
+        .chat-header { background: #2e7d32; color: #fff; padding: 24px 0 16px 0; border-radius: 0; text-align: center; font-size: 1.7em; font-weight: 600; letter-spacing: 1px; }
         .chat-box { flex: 1; padding: 24px 20vw 0 20vw; min-height: 200px; display: flex; flex-direction: column; }
         .chat-bubble { width: 100%; max-width: 100%; padding: 12px 18px; border-radius: 18px; margin-bottom: 12px; font-size: 1.08em; line-height: 1.6; word-break: break-word; box-shadow: 0 1px 4px rgba(0,0,0,0.04); }
-        .user { background: #e0e7ff; align-self: flex-end; margin-left: auto; border-bottom-right-radius: 4px; }
-        .bot { background: #f3f3f3; align-self: flex-start; margin-right: auto; border-bottom-left-radius: 4px; }
-        .title { background: #d1c4e9; font-weight: bold; }
+        .user { background: #c8e6c9; align-self: flex-end; margin-left: auto; border-bottom-right-radius: 4px; }
+        .bot { background: #f1f8e9; align-self: flex-start; margin-right: auto; border-bottom-left-radius: 4px; }
+        .title { background: #a5d6a7; font-weight: bold; }
         .location { background: #b2dfdb; font-style: italic; }
-        .time { background: #ffe082; color: #333; }
+        .time { background: #fff9c4; color: #333; }
         .content { background: #f3f3f3; padding-left: 2em; }
         .chat-form { display: flex; gap: 10px; padding: 16px 20vw 0 20vw; }
         .chat-form textarea { flex: 1; resize: none; border-radius: 8px; border: 1px solid #d1d5db; padding: 10px; font-size: 1em; height: 60px; }
-        .chat-form button { background: #6c47ff; color: #fff; border: none; border-radius: 8px; padding: 0 24px; font-size: 1em; font-weight: 500; cursor: pointer; transition: background 0.2s; }
-        .chat-form button:hover { background: #4b2ed6; }
+        .chat-form button { background: #388e3c; color: #fff; border: none; border-radius: 8px; padding: 0 24px; font-size: 1em; font-weight: 500; cursor: pointer; transition: background 0.2s; }
+        .chat-form button:hover { background: #2e7d32; }
         @media (max-width: 900px) {
             .chat-box, .chat-form { padding-left: 5vw; padding-right: 5vw; }
         }
@@ -27,11 +27,39 @@
             .chat-container { width: 100vw; border-radius: 0; }
             .chat-box, .chat-form { padding-left: 2vw; padding-right: 2vw; }
         }
+        .dot-typing {
+            position: relative;
+            left: 0;
+            width: 2em;
+            height: 1em;
+            display: inline-block;
+        }
+        .dot-typing::before {
+            content: '';
+            display: inline-block;
+            width: 0.5em;
+            height: 0.5em;
+            border-radius: 50%;
+            background: #388e3c;
+            position: absolute;
+            left: 0;
+            animation: dot-typing 1.5s infinite linear;
+            box-shadow: 1em 0 0 0 #388e3c, 2em 0 0 0 #388e3c;
+        }
+        @keyframes dot-typing {
+            0% { box-shadow: 1em 0 0 0 #388e3c, 2em 0 0 0 #388e3c; }
+            16.667% { box-shadow: 0 0 0 0 #388e3c, 2em 0 0 0 #388e3c; }
+            33.333% { box-shadow: 0 0 0 0 #388e3c, 1em 0 0 0 #388e3c; }
+            50% { box-shadow: 0 0 0 0 #388e3c, 0 0 0 0 #388e3c; }
+            66.667% { box-shadow: 1em 0 0 0 #388e3c, 0 0 0 0 #388e3c; }
+            83.333% { box-shadow: 1em 0 0 0 #388e3c, 2em 0 0 0 #388e3c; }
+            100% { box-shadow: 1em 0 0 0 #388e3c, 2em 0 0 0 #388e3c; }
+        }
     </style>
 </head>
 <body>
     <div class="chat-container">
-        <div class="chat-header">RAG LLM Chatbot</div>
+        <div class="chat-header">Conference Session Assistant</div>
         <div class="chat-box" id="chat-box">
             {% if question %}
                 <div class="chat-bubble user">{{ question }}</div>
@@ -69,6 +97,10 @@
                         {% endfor %}
                     </div>
                 {% endif %}
+            {% else %}
+                <div id="waiting-indicator" class="chat-bubble bot" style="display:none; background:#f3f3f3; text-align:center; font-style:italic;">
+                    <span class="dot-typing"></span>
+                </div>
             {% endif %}
         </div>
         <form class="chat-form" method="post" autocomplete="off">
@@ -87,9 +119,17 @@
                 } else {
                     // Submit form
                     e.preventDefault();
+                    // Show waiting indicator
+                    const wait = document.getElementById('waiting-indicator');
+                    if (wait) wait.style.display = '';
                     form.requestSubmit ? form.requestSubmit() : form.submit();
                 }
             }
+        });
+        // Also show waiting indicator if Send button is clicked
+        form.addEventListener('submit', function() {
+            const wait = document.getElementById('waiting-indicator');
+            if (wait) wait.style.display = '';
         });
         </script>
     </div>
