@@ -4,6 +4,7 @@ from pathlib import Path
 import numpy as np
 
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+persist_path = Path("agenda_rag_sklearn_vectorstore.parquet")
 
 def load_vectorstore(persist_path:Path):
     vectorstore = SKLearnVectorStore(
@@ -19,10 +20,14 @@ def cosine_similarity(vec1, vec2):
     norm_vec2 = np.linalg.norm(vec2)
     return dot_product / (norm_vec1 * norm_vec2)
 
-if __name__ == "__main__":
-    persist_path = Path("agenda_rag_sklearn_vectorstore.parquet")
+
+def get_retriever(n_results:int=3):
     vectorstore = load_vectorstore(persist_path)
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+    retriever = vectorstore.as_retriever(search_kwargs={"k": n_results})
+    return retriever
+
+if __name__ == "__main__":
+    retriever = get_retriever(n_results=3)
 
     # Ask user for query - quit if user enters "q"
     while True:
