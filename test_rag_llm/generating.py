@@ -1,10 +1,9 @@
-from retrieving import get_retriever
+from retrieving import get_retriever, format_context
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain import hub
 from langchain_core.runnables import RunnablePassthrough
-from langchain_core.documents import Document
 
 template = """Answer the question based only on the following context:
 {context}
@@ -17,15 +16,6 @@ llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 # chain = prompt | llm | StrOutputParser()
 
 retriever = get_retriever(n_results=3)
-
-def format_context(docs:list[Document]):
-    context = ""
-    for doc in docs:
-        context += doc.page_content
-        for k, v in doc.metadata.items():
-            context += f"{k}: {v}\n"
-        context += "\n"
-    return context
 
 rag_chain = (
     {"context": retriever | format_context, "question": RunnablePassthrough()}

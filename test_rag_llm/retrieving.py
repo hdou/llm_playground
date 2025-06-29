@@ -1,5 +1,6 @@
 from langchain_community.vectorstores import SKLearnVectorStore
 from langchain_openai import OpenAIEmbeddings
+from langchain_core.documents import Document
 from pathlib import Path
 import numpy as np
 
@@ -25,6 +26,16 @@ def get_retriever(n_results:int=3):
     vectorstore = load_vectorstore(persist_path)
     retriever = vectorstore.as_retriever(search_kwargs={"k": n_results})
     return retriever
+
+def format_context(docs:list[Document]):
+    context = ""
+    for doc in docs:
+        context += doc.page_content
+        for k, v in doc.metadata.items():
+            context += f"{k}: {v}\n"
+        context += "\n"
+    return context
+
 
 if __name__ == "__main__":
     retriever = get_retriever(n_results=3)
