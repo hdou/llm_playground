@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG LLM Q&A Bot</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f7; }
+        .container { max-width: 600px; margin: auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        h1 { text-align: center; }
+        textarea { width: 100%; height: 80px; padding: 10px; font-size: 1em; }
+        button { padding: 10px 20px; font-size: 1em; margin-top: 10px; }
+        .answer { margin-top: 30px; background: #e9f7ef; padding: 15px; border-radius: 6px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ask a Question</h1>
+        <form method="post">
+            <textarea name="question" placeholder="Type your question here...">{{ question }}</textarea><br>
+            <button type="submit">Get Answer</button>
+        </form>
+        {% if answer %}
+            <div class="answer">
+                <strong>Answer:</strong><br>
+                {{ answer }}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
