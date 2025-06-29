@@ -3,29 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RAG LLM Q&A Bot</title>
+    <title>RAG LLM Chatbot</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f7; }
-        .container { max-width: 600px; margin: auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-        h1 { text-align: center; }
-        textarea { width: 100%; height: 80px; padding: 10px; font-size: 1em; }
-        button { padding: 10px 20px; font-size: 1em; margin-top: 10px; }
-        .answer { margin-top: 30px; background: #e9f7ef; padding: 15px; border-radius: 6px; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; background: #ececf1; }
+        .chat-container { width: 100vw; min-height: 100vh; margin: 0; background: #fff; border-radius: 0; box-shadow: none; padding: 0 0 20px 0; display: flex; flex-direction: column; }
+        .chat-header { background: #6c47ff; color: #fff; padding: 24px 0 16px 0; border-radius: 0; text-align: center; font-size: 1.7em; font-weight: 600; letter-spacing: 1px; }
+        .chat-box { flex: 1; padding: 24px 20vw 0 20vw; min-height: 200px; display: flex; flex-direction: column; }
+        .chat-bubble { width: 100%; max-width: 100%; padding: 12px 18px; border-radius: 18px; margin-bottom: 12px; font-size: 1.08em; line-height: 1.6; word-break: break-word; box-shadow: 0 1px 4px rgba(0,0,0,0.04); }
+        .user { background: #e0e7ff; align-self: flex-end; margin-left: auto; border-bottom-right-radius: 4px; }
+        .bot { background: #f3f3f3; align-self: flex-start; margin-right: auto; border-bottom-left-radius: 4px; }
+        .title { background: #d1c4e9; font-weight: bold; }
+        .location { background: #b2dfdb; font-style: italic; }
+        .time { background: #ffe082; color: #333; }
+        .content { background: #f3f3f3; padding-left: 2em; }
+        .chat-form { display: flex; gap: 10px; padding: 16px 20vw 0 20vw; }
+        .chat-form textarea { flex: 1; resize: none; border-radius: 8px; border: 1px solid #d1d5db; padding: 10px; font-size: 1em; height: 60px; }
+        .chat-form button { background: #6c47ff; color: #fff; border: none; border-radius: 8px; padding: 0 24px; font-size: 1em; font-weight: 500; cursor: pointer; transition: background 0.2s; }
+        .chat-form button:hover { background: #4b2ed6; }
+        @media (max-width: 900px) {
+            .chat-box, .chat-form { padding-left: 5vw; padding-right: 5vw; }
+        }
+        @media (max-width: 600px) {
+            .chat-container { width: 100vw; border-radius: 0; }
+            .chat-box, .chat-form { padding-left: 2vw; padding-right: 2vw; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Ask a Question</h1>
-        <form method="post">
-            <textarea name="question" placeholder="Type your question here...">{{ question }}</textarea><br>
-            <button type="submit">Get Answer</button>
+    <div class="chat-container">
+        <div class="chat-header">RAG LLM Chatbot</div>
+        <div class="chat-box" id="chat-box">
+            {% if question %}
+                <div class="chat-bubble user">{{ question }}</div>
+            {% endif %}
+            {% if answer %}
+                {% set lines = answer.split('\n') %}
+                {% set title = None %}
+                {% set location = None %}
+                {% set time = None %}
+                {% set content_lines = [] %}
+                {% for line in lines %}
+                    {% if line.lower().startswith('title:') %}
+                        {% set title = line[6:] | trim %}
+                    {% elif line.lower().startswith('location:') %}
+                        {% set location = line[9:] | trim %}
+                    {% elif line.lower().startswith('time:') %}
+                        {% set time = line[5:] | trim %}
+                    {% elif line.strip() %}
+                        {% set _ = content_lines.append(line) %}
+                    {% endif %}
+                {% endfor %}
+                {% if title %}
+                    <div class="chat-bubble bot title">{{ title }}</div>
+                {% endif %}
+                {% if location %}
+                    <div class="chat-bubble bot location">{{ location }}</div>
+                {% endif %}
+                {% if time %}
+                    <div class="chat-bubble bot time">{{ time }}</div>
+                {% endif %}
+                {% if content_lines %}
+                    <div class="chat-bubble bot content">
+                        {% for line in content_lines %}
+                            <span style="display:block;">{{ line | bold_asterisks | safe }}</span>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endif %}
+        </div>
+        <form class="chat-form" method="post" autocomplete="off">
+            <textarea name="question" placeholder="Type your message..." required id="question-box">{{ question }}</textarea>
+            <button type="submit">Send</button>
         </form>
-        {% if answer %}
-            <div class="answer">
-                <strong>Answer:</strong><br>
-                {{ answer }}
-            </div>
-        {% endif %}
+        <script>
+        // Submit form on Enter, allow Shift+Enter for newline
+        const textarea = document.getElementById('question-box');
+        const form = textarea.closest('form');
+        textarea.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') {
+                if (e.shiftKey) {
+                    // Allow newline
+                    return;
+                } else {
+                    // Submit form
+                    e.preventDefault();
+                    form.requestSubmit ? form.requestSubmit() : form.submit();
+                }
+            }
+        });
+        </script>
     </div>
 </body>
 </html>
