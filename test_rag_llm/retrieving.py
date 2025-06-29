@@ -50,5 +50,6 @@ if __name__ == "__main__":
             query_embedding = embeddings.embed_query(query)
             answer_embedding = embeddings.embed_query(doc.page_content)
             similarity = cosine_similarity(query_embedding, answer_embedding)
-            print(f"*** {similarity}")
-
+            print(f"*** {query_embedding=}\n {answer_embedding=}\n {similarity=}")
+        print("-"*100)
+        print(f"{len(query_embedding)=}, {len(answer_embedding)=}")
