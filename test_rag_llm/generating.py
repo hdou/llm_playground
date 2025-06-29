@@ -18,7 +18,12 @@ retriever = get_retriever(n_results=3)
 
 def generate_answer(question:str):
     docs = retriever.invoke(question)
-    context = "\n".join([doc.page_content for doc in docs])
+    context = ""
+    for doc in docs:
+        context += doc.page_content
+        for k, v in doc.metadata.items():
+            context += f"{k}: {v}\n"
+        context += "\n"
     answer = chain.invoke({"context": context, "question": question})
     return answer
 
